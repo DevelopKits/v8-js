@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ic">
+      <UniqueIdentifier>{7FFB0C92-6844-610C-8EFE-89C32316B62C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ic">
+      <UniqueIdentifier>{7FFB0C92-6844-610C-8EFE-89C32316B62C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ic">
+      <UniqueIdentifier>{7FFB0C92-6844-610C-8EFE-89C32316B62C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ic">
+      <UniqueIdentifier>{7FFB0C92-6844-610C-8EFE-89C32316B62C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ic">
+      <UniqueIdentifier>{7FFB0C92-6844-610C-8EFE-89C32316B62C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ic">
+      <UniqueIdentifier>{7FFB0C92-6844-610C-8EFE-89C32316B62C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="interpreter">
+      <UniqueIdentifier>{694D9E0F-41D8-0500-2528-3D8B481ACC9F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="interpreter">
+      <UniqueIdentifier>{694D9E0F-41D8-0500-2528-3D8B481ACC9F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="interpreter">
+      <UniqueIdentifier>{694D9E0F-41D8-0500-2528-3D8B481ACC9F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="interpreter">
+      <UniqueIdentifier>{694D9E0F-41D8-0500-2528-3D8B481ACC9F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="interpreter">
+      <UniqueIdentifier>{694D9E0F-41D8-0500-2528-3D8B481ACC9F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="interpreter">
+      <UniqueIdentifier>{694D9E0F-41D8-0500-2528-3D8B481ACC9F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="interpreter">
+      <UniqueIdentifier>{694D9E0F-41D8-0500-2528-3D8B481ACC9F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="interpreter">
+      <UniqueIdentifier>{694D9E0F-41D8-0500-2528-3D8B481ACC9F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins\x64">
+      <UniqueIdentifier>{E075064C-529C-A4E7-0810-FB88D599C3BE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="builtins\builtins-arguments-gen.cc">
+      <Filter>builtins</Filter>
+    </ClCompile>
+    <ClInclude Include="builtins\builtins-arguments-gen.h">
+      <Filter>builtins</Filter>
+    </ClInclude>
+    <ClCompile Include="builtins\builtins-array-gen.cc">
+      <Filter>builtins</Filter>
+    </ClCompile>
+    <ClCompile Include="builtins\builtins-async-function-gen.cc">
+      <Filter>builtins</Filter>
+    </ClCompile>
+    <ClCompile Include="builtins\builtins-async-gen.cc">
+      <Filter>builtins</Filter>
+    </ClCompile>
+    <ClInclude Include="builtins\builtins-async-gen.h">
+      <Filter>builtins</Filter>
+    </ClInclude>
+    <ClCompile Include="builtins\builtins-async-generator-gen.cc">
+      <Filter>builtins</Filter>
+    </ClCompile>
+    <ClCompile Include="builtins\builtins-async-iterator-gen.cc">
+      <Filter>builtins</Filter>
+    </ClCompile>
+    <ClCompile Include="builtins\builtins-boolean-gen.cc">
+      <Filter>builtins</Filter>
+    </ClCompile>
+    <ClCompile Include="builtins\builtins-call-gen.cc">
+      <Filter>builtins</Filter>
+    </ClCompile>
+    <ClInclude Include="builtins\builtins-call-gen.h">
+      <Filter>builtins</Filter>
+    </ClInclude>
+    <ClCompile Include="builtins\builtins-collections-gen.cc">
+      <Filter>builtins</Filter>
+    </ClCompile>
+    <ClCompile Include="builtins\builtins-console-gen.cc">
+      <Filter>builtins</Filter>
+    </ClCompile>
+    <ClCompile Include="builtins\builtins-constructor-gen.cc">
+      <Filter>builtins</Filter>
+    </ClCompile>
+    <ClInclude Include="builtins\builtins-constructor-gen.h">
+      <Filter>builtins</Filter>
+    </ClInclude>
+    <ClInclude Include="builtins\builtins-constructor.h">
+      <Filter>builtins</Filter>
+    </ClInclude>
+    <ClCompile Include="builtins\builtins-conversion-gen.cc">
+      <Filter>builtins</Filter>
+    </ClCompile>
+    <ClInclude Include="builtins\builtins-conversion-gen.h">
+      <Filter>builtins</Filter>
+    </ClInclude>
+    <ClCompile Include="builtins\builtins-date-gen.cc">
+      <Filter>builtins</Filter>
+    </ClCompile>
+    <ClCompile Include="builtins\builtins-debug-gen.cc">
+      <Filter>builtins</Filter>
+    </ClCompile>
+    <ClCompile Include="builtins\builtins-forin-gen.cc">
+      <Filter>builtins</Filter>
+    </ClCompile>
+    <ClInclude Include="builtins\builtins-forin-gen.h">
+      <Filter>builtins</Filter>
+    </ClInclude>
+    <ClCompile Include="builtins\builtins-function-gen.cc">
+      <Filter>builtins</Filter>
+    </ClCompile>
+    <ClCompile Include="builtins\builtins-generator-gen.cc">
+      <Filter>builtins</Filter>
+    </ClCompile>
+    <ClCompile Include="builtins\builtins-global-gen.cc">
+      <Filter>builtins</Filter>
+    </ClCompile>
+    <ClCompile Include="builtins\builtins-handler-gen.cc">
+      <Filter>builtins</Filter>
+    </ClCompile>
+    <ClCompile Include="builtins\builtins-ic-gen.cc">
+      <Filter>builtins</Filter>
+    </ClCompile>
+    <ClCompile Include="builtins\builtins-internal-gen.cc">
+      <Filter>builtins</Filter>
+    </ClCompile>
+    <ClCompile Include="builtins\builtins-interpreter-gen.cc">
+      <Filter>builtins</Filter>
+    </ClCompile>
+    <ClCompile Include="builtins\builtins-intl-gen.cc">
+      <Filter>builtins</Filter>
+    </ClCompile>
+    <ClInclude Include="builtins\builtins-iterator-gen.h">
+      <Filter>builtins</Filter>
+    </ClInclude>
+    <ClCompile Include="builtins\builtins-iterator-gen.cc">
+      <Filter>builtins</Filter>
+    </ClCompile>
+    <ClCompile Include="builtins\builtins-math-gen.cc">
+      <Filter>builtins</Filter>
+    </ClCompile>
+    <ClCompile Include="builtins\builtins-number-gen.cc">
+      <Filter>builtins</Filter>
+    </ClCompile>
+    <ClCompile Include="builtins\builtins-object-gen.cc">
+      <Filter>builtins</Filter>
+    </ClCompile>
+    <ClCompile Include="builtins\builtins-promise-gen.cc">
+      <Filter>builtins</Filter>
+    </ClCompile>
+    <ClInclude Include="builtins\builtins-promise-gen.h">
+      <Filter>builtins</Filter>
+    </ClInclude>
+    <ClCompile Include="builtins\builtins-proxy-gen.cc">
+      <Filter>builtins</Filter>
+    </ClCompile>
+    <ClCompile Include="builtins\builtins-regexp-gen.cc">
+      <Filter>builtins</Filter>
+    </ClCompile>
+    <ClInclude Include="builtins\builtins-regexp-gen.h">
+      <Filter>builtins</Filter>
+    </ClInclude>
+    <ClCompile Include="builtins\builtins-sharedarraybuffer-gen.cc">
+      <Filter>builtins</Filter>
+    </ClCompile>
+    <ClCompile Include="builtins\builtins-string-gen.cc">
+      <Filter>builtins</Filter>
+    </ClCompile>
+    <ClInclude Include="builtins\builtins-string-gen.h">
+      <Filter>builtins</Filter>
+    </ClInclude>
+    <ClCompile Include="builtins\builtins-symbol-gen.cc">
+      <Filter>builtins</Filter>
+    </ClCompile>
+    <ClCompile Include="builtins\builtins-typedarray-gen.cc">
+      <Filter>builtins</Filter>
+    </ClCompile>
+    <ClInclude Include="builtins\builtins-utils-gen.h">
+      <Filter>builtins</Filter>
+    </ClInclude>
+    <ClCompile Include="builtins\builtins-wasm-gen.cc">
+      <Filter>builtins</Filter>
+    </ClCompile>
+    <ClCompile Include="builtins\setup-builtins-internal.cc">
+      <Filter>builtins</Filter>
+    </ClCompile>
+    <ClCompile Include="ic\accessor-assembler.cc">
+      <Filter>ic</Filter>
+    </ClCompile>
+    <ClInclude Include="ic\accessor-assembler.h">
+      <Filter>ic</Filter>
+    </ClInclude>
+    <ClCompile Include="ic\binary-op-assembler.cc">
+      <Filter>ic</Filter>
+    </ClCompile>
+    <ClInclude Include="ic\binary-op-assembler.h">
+      <Filter>ic</Filter>
+    </ClInclude>
+    <ClCompile Include="ic\keyed-store-generic.cc">
+      <Filter>ic</Filter>
+    </ClCompile>
+    <ClInclude Include="ic\keyed-store-generic.h">
+      <Filter>ic</Filter>
+    </ClInclude>
+    <ClCompile Include="interpreter\interpreter-assembler.cc">
+      <Filter>interpreter</Filter>
+    </ClCompile>
+    <ClInclude Include="interpreter\interpreter-assembler.h">
+      <Filter>interpreter</Filter>
+    </ClInclude>
+    <ClCompile Include="interpreter\interpreter-generator.cc">
+      <Filter>interpreter</Filter>
+    </ClCompile>
+    <ClInclude Include="interpreter\interpreter-generator.h">
+      <Filter>interpreter</Filter>
+    </ClInclude>
+    <ClCompile Include="interpreter\interpreter-intrinsics-generator.cc">
+      <Filter>interpreter</Filter>
+    </ClCompile>
+    <ClInclude Include="interpreter\interpreter-intrinsics-generator.h">
+      <Filter>interpreter</Filter>
+    </ClInclude>
+    <ClCompile Include="interpreter\setup-interpreter-internal.cc">
+      <Filter>interpreter</Filter>
+    </ClCompile>
+    <ClInclude Include="interpreter\setup-interpreter.h">
+      <Filter>interpreter</Filter>
+    </ClInclude>
+    <ClCompile Include="builtins\x64\builtins-x64.cc">
+      <Filter>builtins\x64</Filter>
+    </ClCompile>
+    <None Include="v8.gyp"/>
+  </ItemGroup>
+</Project>
