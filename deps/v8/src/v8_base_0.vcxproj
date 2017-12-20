@@ -684,10 +684,6 @@
       <Project>{53AAD0A3-04D2-56EA-F3E3-16EC6CAA4A07}</Project>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
-    <ProjectReference Include="..\..\..\tools\icu\icuuc.vcxproj">
-      <Project>{6FEB5F0A-E6B2-54BE-BBB8-95D0237DA4D7}</Project>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <Import Project="$(VCTargetsPath)\BuildCustomizations\masm.targets" />
