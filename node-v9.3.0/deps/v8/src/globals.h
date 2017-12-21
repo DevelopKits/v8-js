@@ -19,9 +19,15 @@
 
 // Setup for Windows shared library export.
 #ifdef BUILDING_V8_SHARED
+<<<<<<< HEAD
 #define V8_EXPORT_PRIVATE __declspec(dllexport)
 #elif USING_V8_SHARED
 #define V8_EXPORT_PRIVATE __declspec(dllimport)
+=======
+#define V8_EXPORT_PRIVATE //__declspec(dllexport)
+#elif USING_V8_SHARED
+#define V8_EXPORT_PRIVATE //__declspec(dllimport)
+>>>>>>> 4a8673c2... retrt
 #else
 #define V8_EXPORT_PRIVATE
 #endif  // BUILDING_V8_SHARED

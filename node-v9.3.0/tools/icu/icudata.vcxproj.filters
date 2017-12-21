@@ -51,6 +51,7 @@
     <None Include="$(OutDir)obj\global_intermediate\icudt60l_dat.obj">
       <Filter>$(OutDir)obj\global_intermediate</Filter>
     </None>
+<<<<<<< HEAD
     <None Include="icu-generic.gyp"/>
     <None Include="..\..\deps\icu-small\source\data\in\icudt60l.dat">
       <Filter>..\..\deps\icu-small\source\data\in\_excluded_files</Filter>
@@ -58,8 +59,19 @@
     <None Include="$(OutDir)obj\global_intermediate\icutmp\icudt60l.dat">
       <Filter>$(OutDir)obj\global_intermediate\icutmp\_excluded_files</Filter>
     </None>
+=======
+    <None Include="icu-generic.gyp" />
+>>>>>>> 4a8673c2... retrt
     <None Include="icu_small.json">
       <Filter>_excluded_files</Filter>
     </None>
   </ItemGroup>
+<<<<<<< HEAD
 </Project>
+=======
+  <ItemGroup>
+    <CustomBuild Include="..\..\deps\icu-small\source\data\in\icudt60l.dat" />
+    <CustomBuild Include="$(OutDir)obj\global_intermediate\icutmp\icudt60l.dat" />
+  </ItemGroup>
+</Project>
+>>>>>>> 4a8673c2... retrt

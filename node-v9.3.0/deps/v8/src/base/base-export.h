@@ -10,9 +10,15 @@
 #if V8_OS_WIN
 
 #ifdef BUILDING_V8_BASE_SHARED
+<<<<<<< HEAD
 #define V8_BASE_EXPORT __declspec(dllexport)
 #elif USING_V8_BASE_SHARED
 #define V8_BASE_EXPORT __declspec(dllimport)
+=======
+#define V8_BASE_EXPORT //__declspec(dllexport)
+#elif USING_V8_BASE_SHARED
+#define V8_BASE_EXPORT //__declspec(dllimport)
+>>>>>>> 4a8673c2... retrt
 #else
 #define V8_BASE_EXPORT
 #endif  // BUILDING_V8_BASE_SHARED

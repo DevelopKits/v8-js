@@ -36,9 +36,15 @@
 // static library or building a program which uses the V8 static library neither
 // BUILDING_V8_SHARED nor USING_V8_SHARED should be defined.
 #ifdef BUILDING_V8_SHARED
+<<<<<<< HEAD
 # define V8_EXPORT __declspec(dllexport)
 #elif USING_V8_SHARED
 # define V8_EXPORT __declspec(dllimport)
+=======
+# define V8_EXPORT //__declspec(dllexport)
+#elif USING_V8_SHARED
+# define V8_EXPORT //__declspec(dllimport)
+>>>>>>> 4a8673c2... retrt
 #else
 # define V8_EXPORT
 #endif  // BUILDING_V8_SHARED
