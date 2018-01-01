@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="libsampler">
+      <UniqueIdentifier>{A42D6492-0666-7298-7817-BE8C25DAA147}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libsampler">
+      <UniqueIdentifier>{A42D6492-0666-7298-7817-BE8C25DAA147}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="libsampler\sampler.cc">
+      <Filter>libsampler</Filter>
+    </ClCompile>
+    <ClInclude Include="libsampler\sampler.h">
+      <Filter>libsampler</Filter>
+    </ClInclude>
+    <None Include="v8.gyp"/>
+  </ItemGroup>
+</Project>

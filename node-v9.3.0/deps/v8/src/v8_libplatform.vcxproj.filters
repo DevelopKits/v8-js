@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\include">
+      <UniqueIdentifier>{57CA55B8-BCC5-4000-CE3A-58972F82E9CB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\include\libplatform">
+      <UniqueIdentifier>{9B7F73B5-A7A6-5D6A-BB07-622B00510DF3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\include">
+      <UniqueIdentifier>{57CA55B8-BCC5-4000-CE3A-58972F82E9CB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\include\libplatform">
+      <UniqueIdentifier>{9B7F73B5-A7A6-5D6A-BB07-622B00510DF3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\include">
+      <UniqueIdentifier>{57CA55B8-BCC5-4000-CE3A-58972F82E9CB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\include\libplatform">
+      <UniqueIdentifier>{9B7F73B5-A7A6-5D6A-BB07-622B00510DF3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libplatform">
+      <UniqueIdentifier>{9B7F73B5-A7A6-5D6A-BB07-622B00510DF3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libplatform">
+      <UniqueIdentifier>{9B7F73B5-A7A6-5D6A-BB07-622B00510DF3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libplatform">
+      <UniqueIdentifier>{9B7F73B5-A7A6-5D6A-BB07-622B00510DF3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libplatform">
+      <UniqueIdentifier>{9B7F73B5-A7A6-5D6A-BB07-622B00510DF3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libplatform">
+      <UniqueIdentifier>{9B7F73B5-A7A6-5D6A-BB07-622B00510DF3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libplatform\tracing">
+      <UniqueIdentifier>{CE08FC7C-88C2-852D-9904-CEFED4CA8C0B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libplatform">
+      <UniqueIdentifier>{9B7F73B5-A7A6-5D6A-BB07-622B00510DF3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libplatform\tracing">
+      <UniqueIdentifier>{CE08FC7C-88C2-852D-9904-CEFED4CA8C0B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libplatform">
+      <UniqueIdentifier>{9B7F73B5-A7A6-5D6A-BB07-622B00510DF3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libplatform\tracing">
+      <UniqueIdentifier>{CE08FC7C-88C2-852D-9904-CEFED4CA8C0B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libplatform">
+      <UniqueIdentifier>{9B7F73B5-A7A6-5D6A-BB07-622B00510DF3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libplatform\tracing">
+      <UniqueIdentifier>{CE08FC7C-88C2-852D-9904-CEFED4CA8C0B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libplatform">
+      <UniqueIdentifier>{9B7F73B5-A7A6-5D6A-BB07-622B00510DF3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libplatform\tracing">
+      <UniqueIdentifier>{CE08FC7C-88C2-852D-9904-CEFED4CA8C0B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libplatform">
+      <UniqueIdentifier>{9B7F73B5-A7A6-5D6A-BB07-622B00510DF3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libplatform\tracing">
+      <UniqueIdentifier>{CE08FC7C-88C2-852D-9904-CEFED4CA8C0B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libplatform">
+      <UniqueIdentifier>{9B7F73B5-A7A6-5D6A-BB07-622B00510DF3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libplatform\tracing">
+      <UniqueIdentifier>{CE08FC7C-88C2-852D-9904-CEFED4CA8C0B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libplatform">
+      <UniqueIdentifier>{9B7F73B5-A7A6-5D6A-BB07-622B00510DF3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libplatform">
+      <UniqueIdentifier>{9B7F73B5-A7A6-5D6A-BB07-622B00510DF3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\include\libplatform\libplatform.h">
+      <Filter>..\include\libplatform</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\libplatform\libplatform-export.h">
+      <Filter>..\include\libplatform</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\libplatform\v8-tracing.h">
+      <Filter>..\include\libplatform</Filter>
+    </ClInclude>
+    <ClCompile Include="libplatform\default-platform.cc">
+      <Filter>libplatform</Filter>
+    </ClCompile>
+    <ClInclude Include="libplatform\default-platform.h">
+      <Filter>libplatform</Filter>
+    </ClInclude>
+    <ClCompile Include="libplatform\task-queue.cc">
+      <Filter>libplatform</Filter>
+    </ClCompile>
+    <ClInclude Include="libplatform\task-queue.h">
+      <Filter>libplatform</Filter>
+    </ClInclude>
+    <ClCompile Include="libplatform\tracing\trace-buffer.cc">
+      <Filter>libplatform\tracing</Filter>
+    </ClCompile>
+    <ClInclude Include="libplatform\tracing\trace-buffer.h">
+      <Filter>libplatform\tracing</Filter>
+    </ClInclude>
+    <ClCompile Include="libplatform\tracing\trace-config.cc">
+      <Filter>libplatform\tracing</Filter>
+    </ClCompile>
+    <ClCompile Include="libplatform\tracing\trace-object.cc">
+      <Filter>libplatform\tracing</Filter>
+    </ClCompile>
+    <ClCompile Include="libplatform\tracing\trace-writer.cc">
+      <Filter>libplatform\tracing</Filter>
+    </ClCompile>
+    <ClInclude Include="libplatform\tracing\trace-writer.h">
+      <Filter>libplatform\tracing</Filter>
+    </ClInclude>
+    <ClCompile Include="libplatform\tracing\tracing-controller.cc">
+      <Filter>libplatform\tracing</Filter>
+    </ClCompile>
+    <ClCompile Include="libplatform\worker-thread.cc">
+      <Filter>libplatform</Filter>
+    </ClCompile>
+    <ClInclude Include="libplatform\worker-thread.h">
+      <Filter>libplatform</Filter>
+    </ClInclude>
+    <None Include="v8.gyp"/>
+  </ItemGroup>
+</Project>

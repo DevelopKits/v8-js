@@ -1,0 +1,1300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="$(OutDir)obj">
+      <UniqueIdentifier>{7BD4F48B-77B4-AB58-9E24-A7302D190D1C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="$(OutDir)obj\global_intermediate">
+      <UniqueIdentifier>{14CEDE64-16A7-96A9-EF19-5C5D6085FF18}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="$(OutDir)obj\global_intermediate\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="$(OutDir)obj\global_intermediate\src\inspector">
+      <UniqueIdentifier>{781D0FAB-5D65-9B59-CD02-B1BEBA9FCDA6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="$(OutDir)obj\global_intermediate\src\inspector\protocol">
+      <UniqueIdentifier>{FD430606-600C-E721-8F94-9A9989057E12}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="$(OutDir)obj">
+      <UniqueIdentifier>{7BD4F48B-77B4-AB58-9E24-A7302D190D1C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="$(OutDir)obj\global_intermediate">
+      <UniqueIdentifier>{14CEDE64-16A7-96A9-EF19-5C5D6085FF18}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="$(OutDir)obj\global_intermediate\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="$(OutDir)obj\global_intermediate\src\inspector">
+      <UniqueIdentifier>{781D0FAB-5D65-9B59-CD02-B1BEBA9FCDA6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="$(OutDir)obj\global_intermediate\src\inspector\protocol">
+      <UniqueIdentifier>{FD430606-600C-E721-8F94-9A9989057E12}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="$(OutDir)obj">
+      <UniqueIdentifier>{7BD4F48B-77B4-AB58-9E24-A7302D190D1C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="$(OutDir)obj\global_intermediate">
+      <UniqueIdentifier>{14CEDE64-16A7-96A9-EF19-5C5D6085FF18}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="$(OutDir)obj\global_intermediate\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="$(OutDir)obj\global_intermediate\src\inspector">
+      <UniqueIdentifier>{781D0FAB-5D65-9B59-CD02-B1BEBA9FCDA6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="$(OutDir)obj\global_intermediate\src\inspector\protocol">
+      <UniqueIdentifier>{FD430606-600C-E721-8F94-9A9989057E12}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="$(OutDir)obj">
+      <UniqueIdentifier>{7BD4F48B-77B4-AB58-9E24-A7302D190D1C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="$(OutDir)obj\global_intermediate">
+      <UniqueIdentifier>{14CEDE64-16A7-96A9-EF19-5C5D6085FF18}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="$(OutDir)obj\global_intermediate\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="$(OutDir)obj\global_intermediate\src\inspector">
+      <UniqueIdentifier>{781D0FAB-5D65-9B59-CD02-B1BEBA9FCDA6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="$(OutDir)obj\global_intermediate\src\inspector\protocol">
+      <UniqueIdentifier>{FD430606-600C-E721-8F94-9A9989057E12}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="$(OutDir)obj">
+      <UniqueIdentifier>{7BD4F48B-77B4-AB58-9E24-A7302D190D1C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="$(OutDir)obj\global_intermediate">
+      <UniqueIdentifier>{14CEDE64-16A7-96A9-EF19-5C5D6085FF18}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="$(OutDir)obj\global_intermediate\include">
+      <UniqueIdentifier>{57CA55B8-BCC5-4000-CE3A-58972F82E9CB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="$(OutDir)obj\global_intermediate\include\inspector">
+      <UniqueIdentifier>{781D0FAB-5D65-9B59-CD02-B1BEBA9FCDA6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="inspector">
+      <UniqueIdentifier>{781D0FAB-5D65-9B59-CD02-B1BEBA9FCDA6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="inspector">
+      <UniqueIdentifier>{781D0FAB-5D65-9B59-CD02-B1BEBA9FCDA6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="inspector">
+      <UniqueIdentifier>{781D0FAB-5D65-9B59-CD02-B1BEBA9FCDA6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="inspector">
+      <UniqueIdentifier>{781D0FAB-5D65-9B59-CD02-B1BEBA9FCDA6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="inspector">
+      <UniqueIdentifier>{781D0FAB-5D65-9B59-CD02-B1BEBA9FCDA6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="inspector">
+      <UniqueIdentifier>{781D0FAB-5D65-9B59-CD02-B1BEBA9FCDA6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="inspector">
+      <UniqueIdentifier>{781D0FAB-5D65-9B59-CD02-B1BEBA9FCDA6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="inspector">
+      <UniqueIdentifier>{781D0FAB-5D65-9B59-CD02-B1BEBA9FCDA6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="inspector">
+      <UniqueIdentifier>{781D0FAB-5D65-9B59-CD02-B1BEBA9FCDA6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="inspector">
+      <UniqueIdentifier>{781D0FAB-5D65-9B59-CD02-B1BEBA9FCDA6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="inspector">
+      <UniqueIdentifier>{781D0FAB-5D65-9B59-CD02-B1BEBA9FCDA6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="inspector">
+      <UniqueIdentifier>{781D0FAB-5D65-9B59-CD02-B1BEBA9FCDA6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="inspector">
+      <UniqueIdentifier>{781D0FAB-5D65-9B59-CD02-B1BEBA9FCDA6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="inspector">
+      <UniqueIdentifier>{781D0FAB-5D65-9B59-CD02-B1BEBA9FCDA6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\include">
+      <UniqueIdentifier>{57CA55B8-BCC5-4000-CE3A-58972F82E9CB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\include">
+      <UniqueIdentifier>{57CA55B8-BCC5-4000-CE3A-58972F82E9CB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="asmjs">
+      <UniqueIdentifier>{14DD5443-70A8-D9C4-9B31-D84A76AAE4EF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="asmjs">
+      <UniqueIdentifier>{14DD5443-70A8-D9C4-9B31-D84A76AAE4EF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="asmjs">
+      <UniqueIdentifier>{14DD5443-70A8-D9C4-9B31-D84A76AAE4EF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ast">
+      <UniqueIdentifier>{07163B5D-2C07-D0FE-D0B3-742100F26E35}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ast">
+      <UniqueIdentifier>{07163B5D-2C07-D0FE-D0B3-742100F26E35}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ast">
+      <UniqueIdentifier>{07163B5D-2C07-D0FE-D0B3-742100F26E35}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ast">
+      <UniqueIdentifier>{07163B5D-2C07-D0FE-D0B3-742100F26E35}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ast">
+      <UniqueIdentifier>{07163B5D-2C07-D0FE-D0B3-742100F26E35}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ast">
+      <UniqueIdentifier>{07163B5D-2C07-D0FE-D0B3-742100F26E35}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="builtins">
+      <UniqueIdentifier>{B714CD06-80B8-CB84-13DA-7C93A8862A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="compiler">
+      <UniqueIdentifier>{041FFD28-E4BD-ABC0-5AF7-A6D1560FAC0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="compiler">
+      <UniqueIdentifier>{041FFD28-E4BD-ABC0-5AF7-A6D1560FAC0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="compiler">
+      <UniqueIdentifier>{041FFD28-E4BD-ABC0-5AF7-A6D1560FAC0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="compiler">
+      <UniqueIdentifier>{041FFD28-E4BD-ABC0-5AF7-A6D1560FAC0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="compiler">
+      <UniqueIdentifier>{041FFD28-E4BD-ABC0-5AF7-A6D1560FAC0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="compiler">
+      <UniqueIdentifier>{041FFD28-E4BD-ABC0-5AF7-A6D1560FAC0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="compiler">
+      <UniqueIdentifier>{041FFD28-E4BD-ABC0-5AF7-A6D1560FAC0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="compiler">
+      <UniqueIdentifier>{041FFD28-E4BD-ABC0-5AF7-A6D1560FAC0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="compiler">
+      <UniqueIdentifier>{041FFD28-E4BD-ABC0-5AF7-A6D1560FAC0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="compiler">
+      <UniqueIdentifier>{041FFD28-E4BD-ABC0-5AF7-A6D1560FAC0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="compiler">
+      <UniqueIdentifier>{041FFD28-E4BD-ABC0-5AF7-A6D1560FAC0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="compiler">
+      <UniqueIdentifier>{041FFD28-E4BD-ABC0-5AF7-A6D1560FAC0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="compiler">
+      <UniqueIdentifier>{041FFD28-E4BD-ABC0-5AF7-A6D1560FAC0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="compiler">
+      <UniqueIdentifier>{041FFD28-E4BD-ABC0-5AF7-A6D1560FAC0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="compiler">
+      <UniqueIdentifier>{041FFD28-E4BD-ABC0-5AF7-A6D1560FAC0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="compiler">
+      <UniqueIdentifier>{041FFD28-E4BD-ABC0-5AF7-A6D1560FAC0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="compiler">
+      <UniqueIdentifier>{041FFD28-E4BD-ABC0-5AF7-A6D1560FAC0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="compiler">
+      <UniqueIdentifier>{041FFD28-E4BD-ABC0-5AF7-A6D1560FAC0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="compiler">
+      <UniqueIdentifier>{041FFD28-E4BD-ABC0-5AF7-A6D1560FAC0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="compiler">
+      <UniqueIdentifier>{041FFD28-E4BD-ABC0-5AF7-A6D1560FAC0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="compiler">
+      <UniqueIdentifier>{041FFD28-E4BD-ABC0-5AF7-A6D1560FAC0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="compiler">
+      <UniqueIdentifier>{041FFD28-E4BD-ABC0-5AF7-A6D1560FAC0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="compiler">
+      <UniqueIdentifier>{041FFD28-E4BD-ABC0-5AF7-A6D1560FAC0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="compiler">
+      <UniqueIdentifier>{041FFD28-E4BD-ABC0-5AF7-A6D1560FAC0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="compiler">
+      <UniqueIdentifier>{041FFD28-E4BD-ABC0-5AF7-A6D1560FAC0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="compiler">
+      <UniqueIdentifier>{041FFD28-E4BD-ABC0-5AF7-A6D1560FAC0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="compiler">
+      <UniqueIdentifier>{041FFD28-E4BD-ABC0-5AF7-A6D1560FAC0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="compiler">
+      <UniqueIdentifier>{041FFD28-E4BD-ABC0-5AF7-A6D1560FAC0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="compiler">
+      <UniqueIdentifier>{041FFD28-E4BD-ABC0-5AF7-A6D1560FAC0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="compiler">
+      <UniqueIdentifier>{041FFD28-E4BD-ABC0-5AF7-A6D1560FAC0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="compiler">
+      <UniqueIdentifier>{041FFD28-E4BD-ABC0-5AF7-A6D1560FAC0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="compiler">
+      <UniqueIdentifier>{041FFD28-E4BD-ABC0-5AF7-A6D1560FAC0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="compiler">
+      <UniqueIdentifier>{041FFD28-E4BD-ABC0-5AF7-A6D1560FAC0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="compiler">
+      <UniqueIdentifier>{041FFD28-E4BD-ABC0-5AF7-A6D1560FAC0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="compiler">
+      <UniqueIdentifier>{041FFD28-E4BD-ABC0-5AF7-A6D1560FAC0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="compiler">
+      <UniqueIdentifier>{041FFD28-E4BD-ABC0-5AF7-A6D1560FAC0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="compiler">
+      <UniqueIdentifier>{041FFD28-E4BD-ABC0-5AF7-A6D1560FAC0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="compiler">
+      <UniqueIdentifier>{041FFD28-E4BD-ABC0-5AF7-A6D1560FAC0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="compiler">
+      <UniqueIdentifier>{041FFD28-E4BD-ABC0-5AF7-A6D1560FAC0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="compiler">
+      <UniqueIdentifier>{041FFD28-E4BD-ABC0-5AF7-A6D1560FAC0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="compiler">
+      <UniqueIdentifier>{041FFD28-E4BD-ABC0-5AF7-A6D1560FAC0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="compiler">
+      <UniqueIdentifier>{041FFD28-E4BD-ABC0-5AF7-A6D1560FAC0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="compiler">
+      <UniqueIdentifier>{041FFD28-E4BD-ABC0-5AF7-A6D1560FAC0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="compiler">
+      <UniqueIdentifier>{041FFD28-E4BD-ABC0-5AF7-A6D1560FAC0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="compiler">
+      <UniqueIdentifier>{041FFD28-E4BD-ABC0-5AF7-A6D1560FAC0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="compiler">
+      <UniqueIdentifier>{041FFD28-E4BD-ABC0-5AF7-A6D1560FAC0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="compiler">
+      <UniqueIdentifier>{041FFD28-E4BD-ABC0-5AF7-A6D1560FAC0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="compiler">
+      <UniqueIdentifier>{041FFD28-E4BD-ABC0-5AF7-A6D1560FAC0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="compiler">
+      <UniqueIdentifier>{041FFD28-E4BD-ABC0-5AF7-A6D1560FAC0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="compiler">
+      <UniqueIdentifier>{041FFD28-E4BD-ABC0-5AF7-A6D1560FAC0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="compiler">
+      <UniqueIdentifier>{041FFD28-E4BD-ABC0-5AF7-A6D1560FAC0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="compiler-dispatcher">
+      <UniqueIdentifier>{4AA45E65-9780-58B6-95AF-0746D4BF47A4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="compiler-dispatcher">
+      <UniqueIdentifier>{4AA45E65-9780-58B6-95AF-0746D4BF47A4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="debug">
+      <UniqueIdentifier>{FBAE646B-1E91-2C58-956B-A42D67D8DA0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="debug">
+      <UniqueIdentifier>{FBAE646B-1E91-2C58-956B-A42D67D8DA0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="debug">
+      <UniqueIdentifier>{FBAE646B-1E91-2C58-956B-A42D67D8DA0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="debug">
+      <UniqueIdentifier>{FBAE646B-1E91-2C58-956B-A42D67D8DA0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="debug">
+      <UniqueIdentifier>{FBAE646B-1E91-2C58-956B-A42D67D8DA0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="extensions">
+      <UniqueIdentifier>{76083E2D-7590-88DA-EC98-B85C08DD3529}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="extensions">
+      <UniqueIdentifier>{76083E2D-7590-88DA-EC98-B85C08DD3529}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="extensions">
+      <UniqueIdentifier>{76083E2D-7590-88DA-EC98-B85C08DD3529}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="heap">
+      <UniqueIdentifier>{7CED2756-64ED-26C7-9576-5881BF99323C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="heap">
+      <UniqueIdentifier>{7CED2756-64ED-26C7-9576-5881BF99323C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="heap">
+      <UniqueIdentifier>{7CED2756-64ED-26C7-9576-5881BF99323C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="heap">
+      <UniqueIdentifier>{7CED2756-64ED-26C7-9576-5881BF99323C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="heap">
+      <UniqueIdentifier>{7CED2756-64ED-26C7-9576-5881BF99323C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="heap">
+      <UniqueIdentifier>{7CED2756-64ED-26C7-9576-5881BF99323C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="heap">
+      <UniqueIdentifier>{7CED2756-64ED-26C7-9576-5881BF99323C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="heap">
+      <UniqueIdentifier>{7CED2756-64ED-26C7-9576-5881BF99323C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="heap">
+      <UniqueIdentifier>{7CED2756-64ED-26C7-9576-5881BF99323C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="heap">
+      <UniqueIdentifier>{7CED2756-64ED-26C7-9576-5881BF99323C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="heap">
+      <UniqueIdentifier>{7CED2756-64ED-26C7-9576-5881BF99323C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="heap">
+      <UniqueIdentifier>{7CED2756-64ED-26C7-9576-5881BF99323C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="heap">
+      <UniqueIdentifier>{7CED2756-64ED-26C7-9576-5881BF99323C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ic">
+      <UniqueIdentifier>{7FFB0C92-6844-610C-8EFE-89C32316B62C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ic">
+      <UniqueIdentifier>{7FFB0C92-6844-610C-8EFE-89C32316B62C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ic">
+      <UniqueIdentifier>{7FFB0C92-6844-610C-8EFE-89C32316B62C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ic">
+      <UniqueIdentifier>{7FFB0C92-6844-610C-8EFE-89C32316B62C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="interpreter">
+      <UniqueIdentifier>{694D9E0F-41D8-0500-2528-3D8B481ACC9F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="interpreter">
+      <UniqueIdentifier>{694D9E0F-41D8-0500-2528-3D8B481ACC9F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="interpreter">
+      <UniqueIdentifier>{694D9E0F-41D8-0500-2528-3D8B481ACC9F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="interpreter">
+      <UniqueIdentifier>{694D9E0F-41D8-0500-2528-3D8B481ACC9F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="interpreter">
+      <UniqueIdentifier>{694D9E0F-41D8-0500-2528-3D8B481ACC9F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="interpreter">
+      <UniqueIdentifier>{694D9E0F-41D8-0500-2528-3D8B481ACC9F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="interpreter">
+      <UniqueIdentifier>{694D9E0F-41D8-0500-2528-3D8B481ACC9F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="interpreter">
+      <UniqueIdentifier>{694D9E0F-41D8-0500-2528-3D8B481ACC9F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="interpreter">
+      <UniqueIdentifier>{694D9E0F-41D8-0500-2528-3D8B481ACC9F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="interpreter">
+      <UniqueIdentifier>{694D9E0F-41D8-0500-2528-3D8B481ACC9F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="interpreter">
+      <UniqueIdentifier>{694D9E0F-41D8-0500-2528-3D8B481ACC9F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="objects">
+      <UniqueIdentifier>{C330815E-CA8B-AC3C-7066-B4DCDFDFE22C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="objects">
+      <UniqueIdentifier>{C330815E-CA8B-AC3C-7066-B4DCDFDFE22C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="objects">
+      <UniqueIdentifier>{C330815E-CA8B-AC3C-7066-B4DCDFDFE22C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="objects">
+      <UniqueIdentifier>{C330815E-CA8B-AC3C-7066-B4DCDFDFE22C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="objects">
+      <UniqueIdentifier>{C330815E-CA8B-AC3C-7066-B4DCDFDFE22C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="objects">
+      <UniqueIdentifier>{C330815E-CA8B-AC3C-7066-B4DCDFDFE22C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="objects">
+      <UniqueIdentifier>{C330815E-CA8B-AC3C-7066-B4DCDFDFE22C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="objects">
+      <UniqueIdentifier>{C330815E-CA8B-AC3C-7066-B4DCDFDFE22C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="objects">
+      <UniqueIdentifier>{C330815E-CA8B-AC3C-7066-B4DCDFDFE22C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="parsing">
+      <UniqueIdentifier>{E405BB7D-7753-0C4B-F8E0-44D0C935AA5A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="parsing">
+      <UniqueIdentifier>{E405BB7D-7753-0C4B-F8E0-44D0C935AA5A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="parsing">
+      <UniqueIdentifier>{E405BB7D-7753-0C4B-F8E0-44D0C935AA5A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="parsing">
+      <UniqueIdentifier>{E405BB7D-7753-0C4B-F8E0-44D0C935AA5A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="parsing">
+      <UniqueIdentifier>{E405BB7D-7753-0C4B-F8E0-44D0C935AA5A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="parsing">
+      <UniqueIdentifier>{E405BB7D-7753-0C4B-F8E0-44D0C935AA5A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="parsing">
+      <UniqueIdentifier>{E405BB7D-7753-0C4B-F8E0-44D0C935AA5A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="profiler">
+      <UniqueIdentifier>{87097DB4-0A18-6E42-07AB-BF3B3651C11F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="profiler">
+      <UniqueIdentifier>{87097DB4-0A18-6E42-07AB-BF3B3651C11F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="profiler">
+      <UniqueIdentifier>{87097DB4-0A18-6E42-07AB-BF3B3651C11F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="profiler">
+      <UniqueIdentifier>{87097DB4-0A18-6E42-07AB-BF3B3651C11F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="profiler">
+      <UniqueIdentifier>{87097DB4-0A18-6E42-07AB-BF3B3651C11F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="profiler">
+      <UniqueIdentifier>{87097DB4-0A18-6E42-07AB-BF3B3651C11F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="profiler">
+      <UniqueIdentifier>{87097DB4-0A18-6E42-07AB-BF3B3651C11F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="regexp">
+      <UniqueIdentifier>{8E5F025F-4143-8D68-EE3F-9020E54741D6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="regexp">
+      <UniqueIdentifier>{8E5F025F-4143-8D68-EE3F-9020E54741D6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="regexp">
+      <UniqueIdentifier>{8E5F025F-4143-8D68-EE3F-9020E54741D6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="regexp">
+      <UniqueIdentifier>{8E5F025F-4143-8D68-EE3F-9020E54741D6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="regexp">
+      <UniqueIdentifier>{8E5F025F-4143-8D68-EE3F-9020E54741D6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="regexp">
+      <UniqueIdentifier>{8E5F025F-4143-8D68-EE3F-9020E54741D6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="runtime">
+      <UniqueIdentifier>{1779B421-D65F-F7D8-506B-A3E3D7259D03}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="runtime">
+      <UniqueIdentifier>{1779B421-D65F-F7D8-506B-A3E3D7259D03}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="runtime">
+      <UniqueIdentifier>{1779B421-D65F-F7D8-506B-A3E3D7259D03}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="runtime">
+      <UniqueIdentifier>{1779B421-D65F-F7D8-506B-A3E3D7259D03}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="runtime">
+      <UniqueIdentifier>{1779B421-D65F-F7D8-506B-A3E3D7259D03}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="runtime">
+      <UniqueIdentifier>{1779B421-D65F-F7D8-506B-A3E3D7259D03}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="runtime">
+      <UniqueIdentifier>{1779B421-D65F-F7D8-506B-A3E3D7259D03}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="runtime">
+      <UniqueIdentifier>{1779B421-D65F-F7D8-506B-A3E3D7259D03}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="snapshot">
+      <UniqueIdentifier>{6CAAFB09-61BE-6968-63B2-410B75C7A926}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="snapshot">
+      <UniqueIdentifier>{6CAAFB09-61BE-6968-63B2-410B75C7A926}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="snapshot">
+      <UniqueIdentifier>{6CAAFB09-61BE-6968-63B2-410B75C7A926}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="snapshot">
+      <UniqueIdentifier>{6CAAFB09-61BE-6968-63B2-410B75C7A926}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="snapshot">
+      <UniqueIdentifier>{6CAAFB09-61BE-6968-63B2-410B75C7A926}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="snapshot">
+      <UniqueIdentifier>{6CAAFB09-61BE-6968-63B2-410B75C7A926}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="tracing">
+      <UniqueIdentifier>{CE08FC7C-88C2-852D-9904-CEFED4CA8C0B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="tracing">
+      <UniqueIdentifier>{CE08FC7C-88C2-852D-9904-CEFED4CA8C0B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="trap-handler">
+      <UniqueIdentifier>{2B4E062C-D0DB-B5EA-FB6F-5126615BA7ED}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="wasm">
+      <UniqueIdentifier>{5506238B-2B52-A9BB-7176-969D8E3A5159}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="wasm">
+      <UniqueIdentifier>{5506238B-2B52-A9BB-7176-969D8E3A5159}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="wasm">
+      <UniqueIdentifier>{5506238B-2B52-A9BB-7176-969D8E3A5159}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="wasm">
+      <UniqueIdentifier>{5506238B-2B52-A9BB-7176-969D8E3A5159}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="wasm">
+      <UniqueIdentifier>{5506238B-2B52-A9BB-7176-969D8E3A5159}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="wasm">
+      <UniqueIdentifier>{5506238B-2B52-A9BB-7176-969D8E3A5159}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="wasm">
+      <UniqueIdentifier>{5506238B-2B52-A9BB-7176-969D8E3A5159}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="wasm">
+      <UniqueIdentifier>{5506238B-2B52-A9BB-7176-969D8E3A5159}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="wasm">
+      <UniqueIdentifier>{5506238B-2B52-A9BB-7176-969D8E3A5159}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="wasm">
+      <UniqueIdentifier>{5506238B-2B52-A9BB-7176-969D8E3A5159}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="wasm">
+      <UniqueIdentifier>{5506238B-2B52-A9BB-7176-969D8E3A5159}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="zone">
+      <UniqueIdentifier>{3309BC7C-689A-96B6-CF6C-13FFDB0931E9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="zone">
+      <UniqueIdentifier>{3309BC7C-689A-96B6-CF6C-13FFDB0931E9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ia32">
+      <UniqueIdentifier>{884EDFAC-39DF-1338-3795-84EDC7FF91FF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ia32">
+      <UniqueIdentifier>{884EDFAC-39DF-1338-3795-84EDC7FF91FF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ia32">
+      <UniqueIdentifier>{884EDFAC-39DF-1338-3795-84EDC7FF91FF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ia32">
+      <UniqueIdentifier>{884EDFAC-39DF-1338-3795-84EDC7FF91FF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ia32">
+      <UniqueIdentifier>{884EDFAC-39DF-1338-3795-84EDC7FF91FF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="compiler">
+      <UniqueIdentifier>{041FFD28-E4BD-ABC0-5AF7-A6D1560FAC0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="compiler\ia32">
+      <UniqueIdentifier>{884EDFAC-39DF-1338-3795-84EDC7FF91FF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ic">
+      <UniqueIdentifier>{7FFB0C92-6844-610C-8EFE-89C32316B62C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ic\ia32">
+      <UniqueIdentifier>{884EDFAC-39DF-1338-3795-84EDC7FF91FF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="$(OutDir)obj\global_intermediate\src\inspector\protocol\Protocol.cpp">
+      <Filter>$(OutDir)obj\global_intermediate\src\inspector\protocol</Filter>
+    </ClCompile>
+    <ClCompile Include="$(OutDir)obj\global_intermediate\src\inspector\protocol\Debugger.cpp">
+      <Filter>$(OutDir)obj\global_intermediate\src\inspector\protocol</Filter>
+    </ClCompile>
+    <ClCompile Include="$(OutDir)obj\global_intermediate\src\inspector\protocol\Profiler.cpp">
+      <Filter>$(OutDir)obj\global_intermediate\src\inspector\protocol</Filter>
+    </ClCompile>
+    <ClCompile Include="$(OutDir)obj\global_intermediate\src\inspector\protocol\Schema.cpp">
+      <Filter>$(OutDir)obj\global_intermediate\src\inspector\protocol</Filter>
+    </ClCompile>
+    <ClInclude Include="$(OutDir)obj\global_intermediate\include\inspector\Schema.h">
+      <Filter>$(OutDir)obj\global_intermediate\include\inspector</Filter>
+    </ClInclude>
+    <ClCompile Include="inspector\injected-script.cc">
+      <Filter>inspector</Filter>
+    </ClCompile>
+    <ClCompile Include="inspector\remote-object-id.cc">
+      <Filter>inspector</Filter>
+    </ClCompile>
+    <ClInclude Include="inspector\search-util.h">
+      <Filter>inspector</Filter>
+    </ClInclude>
+    <ClInclude Include="inspector\string-util.h">
+      <Filter>inspector</Filter>
+    </ClInclude>
+    <ClInclude Include="inspector\v8-console.h">
+      <Filter>inspector</Filter>
+    </ClInclude>
+    <ClInclude Include="inspector\v8-console-message.h">
+      <Filter>inspector</Filter>
+    </ClInclude>
+    <ClInclude Include="inspector\v8-debugger-agent-impl.h">
+      <Filter>inspector</Filter>
+    </ClInclude>
+    <ClInclude Include="inspector\v8-function-call.h">
+      <Filter>inspector</Filter>
+    </ClInclude>
+    <ClInclude Include="inspector\v8-injected-script-host.h">
+      <Filter>inspector</Filter>
+    </ClInclude>
+    <ClInclude Include="inspector\v8-inspector-session-impl.h">
+      <Filter>inspector</Filter>
+    </ClInclude>
+    <ClInclude Include="inspector\v8-profiler-agent-impl.h">
+      <Filter>inspector</Filter>
+    </ClInclude>
+    <ClInclude Include="inspector\v8-runtime-agent-impl.h">
+      <Filter>inspector</Filter>
+    </ClInclude>
+    <ClInclude Include="inspector\v8-stack-trace-impl.h">
+      <Filter>inspector</Filter>
+    </ClInclude>
+    <ClInclude Include="inspector\wasm-translation.h">
+      <Filter>inspector</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\v8-testing.h">
+      <Filter>..\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\v8-version.h">
+      <Filter>..\include</Filter>
+    </ClInclude>
+    <ClInclude Include="accessors.h"/>
+    <ClInclude Include="allocation.h"/>
+    <ClInclude Include="api-arguments-inl.h"/>
+    <ClInclude Include="api-natives.h"/>
+    <ClInclude Include="asmjs\asm-js.h">
+      <Filter>asmjs</Filter>
+    </ClInclude>
+    <ClCompile Include="asmjs\asm-scanner.cc">
+      <Filter>asmjs</Filter>
+    </ClCompile>
+    <ClInclude Include="asmjs\switch-logic.h">
+      <Filter>asmjs</Filter>
+    </ClInclude>
+    <ClInclude Include="assembler-inl.h"/>
+    <ClInclude Include="ast\ast-expression-rewriter.h">
+      <Filter>ast</Filter>
+    </ClInclude>
+    <ClInclude Include="ast\ast-numbering.h">
+      <Filter>ast</Filter>
+    </ClInclude>
+    <ClInclude Include="ast\ast-value-factory.h">
+      <Filter>ast</Filter>
+    </ClInclude>
+    <ClInclude Include="ast\compile-time-value.h">
+      <Filter>ast</Filter>
+    </ClInclude>
+    <ClInclude Include="ast\modules.h">
+      <Filter>ast</Filter>
+    </ClInclude>
+    <ClInclude Include="ast\scopes.h">
+      <Filter>ast</Filter>
+    </ClInclude>
+    <ClInclude Include="background-parsing-task.h"/>
+    <ClInclude Include="basic-block-profiler.h"/>
+    <ClInclude Include="bignum.h"/>
+    <ClInclude Include="bootstrapper.h"/>
+    <ClCompile Include="builtins\builtins-array.cc">
+      <Filter>builtins</Filter>
+    </ClCompile>
+    <ClCompile Include="builtins\builtins-collections.cc">
+      <Filter>builtins</Filter>
+    </ClCompile>
+    <ClCompile Include="builtins\builtins-date.cc">
+      <Filter>builtins</Filter>
+    </ClCompile>
+    <ClCompile Include="builtins\builtins-function.cc">
+      <Filter>builtins</Filter>
+    </ClCompile>
+    <ClCompile Include="builtins\builtins-json.cc">
+      <Filter>builtins</Filter>
+    </ClCompile>
+    <ClCompile Include="builtins\builtins-promise.cc">
+      <Filter>builtins</Filter>
+    </ClCompile>
+    <ClCompile Include="builtins\builtins-string.cc">
+      <Filter>builtins</Filter>
+    </ClCompile>
+    <ClCompile Include="builtins\builtins-typedarray.cc">
+      <Filter>builtins</Filter>
+    </ClCompile>
+    <ClCompile Include="cached-powers.cc"/>
+    <ClInclude Include="cancelable-task.h"/>
+    <ClInclude Include="checks.h"/>
+    <ClCompile Include="code-stub-assembler.cc"/>
+    <ClInclude Include="code-stubs-utils.h"/>
+    <ClCompile Include="compilation-cache.cc"/>
+    <ClCompile Include="compilation-info.cc"/>
+    <ClCompile Include="compiler\access-builder.cc">
+      <Filter>compiler</Filter>
+    </ClCompile>
+    <ClCompile Include="compiler\all-nodes.cc">
+      <Filter>compiler</Filter>
+    </ClCompile>
+    <ClCompile Include="compiler\branch-elimination.cc">
+      <Filter>compiler</Filter>
+    </ClCompile>
+    <ClCompile Include="compiler\bytecode-graph-builder.cc">
+      <Filter>compiler</Filter>
+    </ClCompile>
+    <ClCompile Include="compiler\c-linkage.cc">
+      <Filter>compiler</Filter>
+    </ClCompile>
+    <ClCompile Include="compiler\code-generator.cc">
+      <Filter>compiler</Filter>
+    </ClCompile>
+    <ClCompile Include="compiler\common-node-cache.cc">
+      <Filter>compiler</Filter>
+    </ClCompile>
+    <ClCompile Include="compiler\common-operator.cc">
+      <Filter>compiler</Filter>
+    </ClCompile>
+    <ClCompile Include="compiler\control-flow-optimizer.cc">
+      <Filter>compiler</Filter>
+    </ClCompile>
+    <ClInclude Include="compiler\diamond.h">
+      <Filter>compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="compiler\escape-analysis.h">
+      <Filter>compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="compiler\frame.h">
+      <Filter>compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="compiler\frame-states.h">
+      <Filter>compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="compiler\graph-assembler.h">
+      <Filter>compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="compiler\graph-trimmer.h">
+      <Filter>compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="compiler\graph.h">
+      <Filter>compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="compiler\instruction-selector.h">
+      <Filter>compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="compiler\instruction.h">
+      <Filter>compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="compiler\js-builtin-reducer.h">
+      <Filter>compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="compiler\js-context-specialization.h">
+      <Filter>compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="compiler\js-generic-lowering.h">
+      <Filter>compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="compiler\js-inlining.h">
+      <Filter>compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="compiler\js-intrinsic-lowering.h">
+      <Filter>compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="compiler\js-operator.h">
+      <Filter>compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="compiler\js-typed-lowering.h">
+      <Filter>compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="compiler\linkage.h">
+      <Filter>compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="compiler\load-elimination.h">
+      <Filter>compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="compiler\loop-peeling.h">
+      <Filter>compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="compiler\machine-operator-reducer.h">
+      <Filter>compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="compiler\machine-graph-verifier.h">
+      <Filter>compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="compiler\move-optimizer.h">
+      <Filter>compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="compiler\new-escape-analysis-reducer.h">
+      <Filter>compiler</Filter>
+    </ClInclude>
+    <ClCompile Include="compiler\node-marker.cc">
+      <Filter>compiler</Filter>
+    </ClCompile>
+    <ClCompile Include="compiler\node-properties.cc">
+      <Filter>compiler</Filter>
+    </ClCompile>
+    <ClCompile Include="compiler\opcodes.cc">
+      <Filter>compiler</Filter>
+    </ClCompile>
+    <ClCompile Include="compiler\operator-properties.cc">
+      <Filter>compiler</Filter>
+    </ClCompile>
+    <ClCompile Include="compiler\osr.cc">
+      <Filter>compiler</Filter>
+    </ClCompile>
+    <ClInclude Include="compiler\pipeline.h">
+      <Filter>compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="compiler\property-access-builder.h">
+      <Filter>compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="compiler\redundancy-elimination.h">
+      <Filter>compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="compiler\register-allocator-verifier.h">
+      <Filter>compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="compiler\schedule.h">
+      <Filter>compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="compiler\select-lowering.h">
+      <Filter>compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="compiler\simplified-lowering.h">
+      <Filter>compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="compiler\simplified-operator.h">
+      <Filter>compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="compiler\state-values-utils.h">
+      <Filter>compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="compiler\types.h">
+      <Filter>compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="compiler\typed-optimization.h">
+      <Filter>compiler</Filter>
+    </ClInclude>
+    <ClCompile Include="compiler\value-numbering-reducer.cc">
+      <Filter>compiler</Filter>
+    </ClCompile>
+    <ClCompile Include="compiler\wasm-compiler.cc">
+      <Filter>compiler</Filter>
+    </ClCompile>
+    <ClInclude Include="compiler\zone-stats.h">
+      <Filter>compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="compiler-dispatcher\compiler-dispatcher-job.h">
+      <Filter>compiler-dispatcher</Filter>
+    </ClInclude>
+    <ClInclude Include="compiler-dispatcher\optimizing-compile-dispatcher.h">
+      <Filter>compiler-dispatcher</Filter>
+    </ClInclude>
+    <ClInclude Include="compiler.h"/>
+    <ClInclude Include="conversions-inl.h"/>
+    <ClCompile Include="counters.cc"/>
+    <ClInclude Include="dateparser-inl.h"/>
+    <ClInclude Include="debug\debug-coverage.h">
+      <Filter>debug</Filter>
+    </ClInclude>
+    <ClCompile Include="debug\debug-frames.cc">
+      <Filter>debug</Filter>
+    </ClCompile>
+    <ClCompile Include="debug\debug-scopes.cc">
+      <Filter>debug</Filter>
+    </ClCompile>
+    <ClCompile Include="debug\debug.cc">
+      <Filter>debug</Filter>
+    </ClCompile>
+    <ClInclude Include="debug\liveedit.h">
+      <Filter>debug</Filter>
+    </ClInclude>
+    <ClInclude Include="deoptimizer.h"/>
+    <ClCompile Include="diy-fp.cc"/>
+    <ClInclude Include="dtoa.h"/>
+    <ClInclude Include="elements-kind.h"/>
+    <ClInclude Include="execution.h"/>
+    <ClInclude Include="extensions\free-buffer-extension.h">
+      <Filter>extensions</Filter>
+    </ClInclude>
+    <ClInclude Include="extensions\ignition-statistics-extension.h">
+      <Filter>extensions</Filter>
+    </ClInclude>
+    <ClInclude Include="extensions\trigger-failure-extension.h">
+      <Filter>extensions</Filter>
+    </ClInclude>
+    <ClInclude Include="factory.h"/>
+    <ClCompile Include="feedback-vector.cc"/>
+    <ClInclude Include="field-index.h"/>
+    <ClInclude Include="find-and-replace-pattern.h"/>
+    <ClCompile Include="flags.cc"/>
+    <ClCompile Include="frames.cc"/>
+    <ClCompile Include="gdb-jit.cc"/>
+    <ClInclude Include="globals.h"/>
+    <ClInclude Include="heap-symbols.h"/>
+    <ClCompile Include="heap\code-stats.cc">
+      <Filter>heap</Filter>
+    </ClCompile>
+    <ClCompile Include="heap\embedder-tracing.cc">
+      <Filter>heap</Filter>
+    </ClCompile>
+    <ClCompile Include="heap\gc-idle-time-handler.cc">
+      <Filter>heap</Filter>
+    </ClCompile>
+    <ClInclude Include="heap\heap-inl.h">
+      <Filter>heap</Filter>
+    </ClInclude>
+    <ClCompile Include="heap\incremental-marking-job.cc">
+      <Filter>heap</Filter>
+    </ClCompile>
+    <ClInclude Include="heap\invalidated-slots-inl.h">
+      <Filter>heap</Filter>
+    </ClInclude>
+    <ClInclude Include="heap\local-allocator.h">
+      <Filter>heap</Filter>
+    </ClInclude>
+    <ClCompile Include="heap\marking.cc">
+      <Filter>heap</Filter>
+    </ClCompile>
+    <ClInclude Include="heap\objects-visiting-inl.h">
+      <Filter>heap</Filter>
+    </ClInclude>
+    <ClInclude Include="heap\scavenge-job.h">
+      <Filter>heap</Filter>
+    </ClInclude>
+    <ClInclude Include="heap\scavenger.h">
+      <Filter>heap</Filter>
+    </ClInclude>
+    <ClInclude Include="heap\spaces-inl.h">
+      <Filter>heap</Filter>
+    </ClInclude>
+    <ClInclude Include="heap\store-buffer.h">
+      <Filter>heap</Filter>
+    </ClInclude>
+    <ClCompile Include="icu_util.cc"/>
+    <ClInclude Include="ic\access-compiler.h">
+      <Filter>ic</Filter>
+    </ClInclude>
+    <ClInclude Include="ic\handler-compiler.h">
+      <Filter>ic</Filter>
+    </ClInclude>
+    <ClInclude Include="ic\ic-inl.h">
+      <Filter>ic</Filter>
+    </ClInclude>
+    <ClInclude Include="ic\ic.h">
+      <Filter>ic</Filter>
+    </ClInclude>
+    <ClInclude Include="interface-descriptors.h"/>
+    <ClCompile Include="interpreter\bytecode-array-accessor.cc">
+      <Filter>interpreter</Filter>
+    </ClCompile>
+    <ClCompile Include="interpreter\bytecode-array-iterator.cc">
+      <Filter>interpreter</Filter>
+    </ClCompile>
+    <ClCompile Include="interpreter\bytecode-array-writer.cc">
+      <Filter>interpreter</Filter>
+    </ClCompile>
+    <ClCompile Include="interpreter\bytecode-flags.cc">
+      <Filter>interpreter</Filter>
+    </ClCompile>
+    <ClCompile Include="interpreter\bytecode-label.cc">
+      <Filter>interpreter</Filter>
+    </ClCompile>
+    <ClCompile Include="interpreter\bytecode-operands.cc">
+      <Filter>interpreter</Filter>
+    </ClCompile>
+    <ClInclude Include="interpreter\bytecode-register-allocator.h">
+      <Filter>interpreter</Filter>
+    </ClInclude>
+    <ClInclude Include="interpreter\bytecode-source-info.h">
+      <Filter>interpreter</Filter>
+    </ClInclude>
+    <ClInclude Include="interpreter\constant-array-builder.h">
+      <Filter>interpreter</Filter>
+    </ClInclude>
+    <ClInclude Include="interpreter\handler-table-builder.h">
+      <Filter>interpreter</Filter>
+    </ClInclude>
+    <ClCompile Include="interpreter\interpreter-intrinsics.cc">
+      <Filter>interpreter</Filter>
+    </ClCompile>
+    <ClInclude Include="isolate.h"/>
+    <ClInclude Include="json-stringifier.h"/>
+    <ClInclude Include="layout-descriptor-inl.h"/>
+    <ClInclude Include="list.h"/>
+    <ClCompile Include="log-utils.cc"/>
+    <ClInclude Include="lookup-cache-inl.h"/>
+    <ClInclude Include="lookup.h"/>
+    <ClInclude Include="macro-assembler.h"/>
+    <ClCompile Include="messages.cc"/>
+    <ClInclude Include="objects-body-descriptors.h"/>
+    <ClCompile Include="objects.cc"/>
+    <ClInclude Include="objects\code-cache.h">
+      <Filter>objects</Filter>
+    </ClInclude>
+    <ClInclude Include="objects\debug-objects-inl.h">
+      <Filter>objects</Filter>
+    </ClInclude>
+    <ClInclude Include="objects\dictionary.h">
+      <Filter>objects</Filter>
+    </ClInclude>
+    <ClInclude Include="objects\hash-table.h">
+      <Filter>objects</Filter>
+    </ClInclude>
+    <ClInclude Include="objects\literal-objects.h">
+      <Filter>objects</Filter>
+    </ClInclude>
+    <ClInclude Include="objects\name.h">
+      <Filter>objects</Filter>
+    </ClInclude>
+    <ClInclude Include="objects\object-macros.h">
+      <Filter>objects</Filter>
+    </ClInclude>
+    <ClInclude Include="objects\scope-info.h">
+      <Filter>objects</Filter>
+    </ClInclude>
+    <ClInclude Include="objects\shared-function-info.h">
+      <Filter>objects</Filter>
+    </ClInclude>
+    <ClCompile Include="ostreams.cc"/>
+    <ClCompile Include="parsing\expression-scope-reparenter.cc">
+      <Filter>parsing</Filter>
+    </ClCompile>
+    <ClCompile Include="parsing\parse-info.cc">
+      <Filter>parsing</Filter>
+    </ClCompile>
+    <ClInclude Include="parsing\parser.h">
+      <Filter>parsing</Filter>
+    </ClInclude>
+    <ClInclude Include="parsing\preparse-data-format.h">
+      <Filter>parsing</Filter>
+    </ClInclude>
+    <ClInclude Include="parsing\preparsed-scope-data.h">
+      <Filter>parsing</Filter>
+    </ClInclude>
+    <ClInclude Include="parsing\rewriter.h">
+      <Filter>parsing</Filter>
+    </ClInclude>
+    <ClInclude Include="parsing\scanner.h">
+      <Filter>parsing</Filter>
+    </ClInclude>
+    <ClInclude Include="pending-compilation-error-handler.h"/>
+    <ClInclude Include="profiler\allocation-tracker.h">
+      <Filter>profiler</Filter>
+    </ClInclude>
+    <ClCompile Include="profiler\cpu-profiler.cc">
+      <Filter>profiler</Filter>
+    </ClCompile>
+    <ClInclude Include="profiler\heap-snapshot-generator-inl.h">
+      <Filter>profiler</Filter>
+    </ClInclude>
+    <ClInclude Include="profiler\profiler-listener.h">
+      <Filter>profiler</Filter>
+    </ClInclude>
+    <ClCompile Include="profiler\sampling-heap-profiler.cc">
+      <Filter>profiler</Filter>
+    </ClCompile>
+    <ClCompile Include="profiler\tick-sample.cc">
+      <Filter>profiler</Filter>
+    </ClCompile>
+    <ClInclude Include="profiler\unbound-queue-inl.h">
+      <Filter>profiler</Filter>
+    </ClInclude>
+    <ClInclude Include="property-details.h"/>
+    <ClInclude Include="regexp\bytecodes-irregexp.h">
+      <Filter>regexp</Filter>
+    </ClInclude>
+    <ClCompile Include="regexp\jsregexp.cc">
+      <Filter>regexp</Filter>
+    </ClCompile>
+    <ClInclude Include="regexp\regexp-macro-assembler-irregexp-inl.h">
+      <Filter>regexp</Filter>
+    </ClInclude>
+    <ClInclude Include="regexp\regexp-macro-assembler-tracer.h">
+      <Filter>regexp</Filter>
+    </ClInclude>
+    <ClInclude Include="regexp\regexp-parser.h">
+      <Filter>regexp</Filter>
+    </ClInclude>
+    <ClInclude Include="regexp\regexp-utils.h">
+      <Filter>regexp</Filter>
+    </ClInclude>
+    <ClCompile Include="runtime-profiler.cc"/>
+    <ClCompile Include="runtime\runtime-classes.cc">
+      <Filter>runtime</Filter>
+    </ClCompile>
+    <ClCompile Include="runtime\runtime-debug.cc">
+      <Filter>runtime</Filter>
+    </ClCompile>
+    <ClCompile Include="runtime\runtime-futex.cc">
+      <Filter>runtime</Filter>
+    </ClCompile>
+    <ClCompile Include="runtime\runtime-interpreter.cc">
+      <Filter>runtime</Filter>
+    </ClCompile>
+    <ClCompile Include="runtime\runtime-module.cc">
+      <Filter>runtime</Filter>
+    </ClCompile>
+    <ClCompile Include="runtime\runtime-promise.cc">
+      <Filter>runtime</Filter>
+    </ClCompile>
+    <ClCompile Include="runtime\runtime-strings.cc">
+      <Filter>runtime</Filter>
+    </ClCompile>
+    <ClInclude Include="runtime\runtime-utils.h">
+      <Filter>runtime</Filter>
+    </ClInclude>
+    <ClCompile Include="safepoint-table.cc"/>
+    <ClInclude Include="simulator.h"/>
+    <ClCompile Include="snapshot\deserializer.cc">
+      <Filter>snapshot</Filter>
+    </ClCompile>
+    <ClCompile Include="snapshot\object-deserializer.cc">
+      <Filter>snapshot</Filter>
+    </ClCompile>
+    <ClCompile Include="snapshot\partial-serializer.cc">
+      <Filter>snapshot</Filter>
+    </ClCompile>
+    <ClInclude Include="snapshot\serializer-common.h">
+      <Filter>snapshot</Filter>
+    </ClInclude>
+    <ClCompile Include="snapshot\snapshot-source-sink.cc">
+      <Filter>snapshot</Filter>
+    </ClCompile>
+    <ClCompile Include="snapshot\startup-serializer.cc">
+      <Filter>snapshot</Filter>
+    </ClCompile>
+    <ClCompile Include="source-position.cc"/>
+    <ClCompile Include="startup-data-util.cc"/>
+    <ClCompile Include="string-case.cc"/>
+    <ClInclude Include="string-search.h"/>
+    <ClInclude Include="strtod.h"/>
+    <ClInclude Include="tracing\trace-event.h">
+      <Filter>tracing</Filter>
+    </ClInclude>
+    <ClInclude Include="tracing\tracing-category-observer.h">
+      <Filter>tracing</Filter>
+    </ClInclude>
+    <ClCompile Include="trap-handler\handler-outside.cc">
+      <Filter>trap-handler</Filter>
+    </ClCompile>
+    <ClCompile Include="type-hints.cc"/>
+    <ClInclude Include="unicode.h"/>
+    <ClInclude Include="unicode-decoder.h"/>
+    <ClCompile Include="utils.cc"/>
+    <ClInclude Include="v8memory.h"/>
+    <ClInclude Include="value-serializer.h"/>
+    <ClCompile Include="visitors.cc"/>
+    <ClCompile Include="wasm\compilation-manager.cc">
+      <Filter>wasm</Filter>
+    </ClCompile>
+    <ClInclude Include="wasm\function-body-decoder.h">
+      <Filter>wasm</Filter>
+    </ClInclude>
+    <ClInclude Include="wasm\local-decl-encoder.h">
+      <Filter>wasm</Filter>
+    </ClInclude>
+    <ClInclude Include="wasm\module-decoder.h">
+      <Filter>wasm</Filter>
+    </ClInclude>
+    <ClInclude Include="wasm\streaming-decoder.h">
+      <Filter>wasm</Filter>
+    </ClInclude>
+    <ClCompile Include="wasm\wasm-code-specialization.cc">
+      <Filter>wasm</Filter>
+    </ClCompile>
+    <ClCompile Include="wasm\wasm-js.cc">
+      <Filter>wasm</Filter>
+    </ClCompile>
+    <ClInclude Include="wasm\wasm-module.h">
+      <Filter>wasm</Filter>
+    </ClInclude>
+    <ClInclude Include="wasm\wasm-interpreter.h">
+      <Filter>wasm</Filter>
+    </ClInclude>
+    <ClInclude Include="wasm\wasm-opcodes.h">
+      <Filter>wasm</Filter>
+    </ClInclude>
+    <ClInclude Include="wasm\wasm-text.h">
+      <Filter>wasm</Filter>
+    </ClInclude>
+    <ClCompile Include="zone\zone-segment.cc">
+      <Filter>zone</Filter>
+    </ClCompile>
+    <ClInclude Include="zone\zone-chunk-list.h">
+      <Filter>zone</Filter>
+    </ClInclude>
+    <ClInclude Include="ia32\assembler-ia32-inl.h">
+      <Filter>ia32</Filter>
+    </ClInclude>
+    <ClInclude Include="ia32\code-stubs-ia32.h">
+      <Filter>ia32</Filter>
+    </ClInclude>
+    <ClCompile Include="ia32\deoptimizer-ia32.cc">
+      <Filter>ia32</Filter>
+    </ClCompile>
+    <ClCompile Include="ia32\interface-descriptors-ia32.cc">
+      <Filter>ia32</Filter>
+    </ClCompile>
+    <ClInclude Include="ia32\simulator-ia32.h">
+      <Filter>ia32</Filter>
+    </ClInclude>
+    <ClCompile Include="compiler\ia32\instruction-scheduler-ia32.cc">
+      <Filter>compiler\ia32</Filter>
+    </ClCompile>
+    <ClCompile Include="ic\ia32\handler-compiler-ia32.cc">
+      <Filter>ic\ia32</Filter>
+    </ClCompile>
+    <None Include="v8.gyp"/>
+  </ItemGroup>
+</Project>
