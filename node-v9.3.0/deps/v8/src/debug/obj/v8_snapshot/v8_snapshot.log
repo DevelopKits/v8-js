@@ -1,1 +1,82 @@
-﻿
+﻿  libraries.cc
+  extras-libraries.cc
+  experimental-extras-libraries.cc
+D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4214): warning C4251: “v8::WasmModuleObjectBuilderStreaming::promise_”: class“v8::Persistent<v8::Promise,v8::CopyablePersistentTraits<v8::Promise>>”需要有 dll 接口由 class“v8::WasmModuleObjectBuilderStreaming”的客户端使用  (编译源文件 D:\v8-js\node-v9.3.0\deps\v8\src\Debug\obj\global_intermediate\libraries.cc)
+D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4214): warning C4251: “v8::WasmModuleObjectBuilderStreaming::promise_”: class“v8::Persistent<v8::Promise,v8::CopyablePersistentTraits<v8::Promise>>”需要有 dll 接口由 class“v8::WasmModuleObjectBuilderStreaming”的客户端使用  (编译源文件 D:\v8-js\node-v9.3.0\deps\v8\src\Debug\obj\global_intermediate\experimental-extras-libraries.cc)
+D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4214): warning C4251: “v8::WasmModuleObjectBuilderStreaming::promise_”: class“v8::Persistent<v8::Promise,v8::CopyablePersistentTraits<v8::Promise>>”需要有 dll 接口由 class“v8::WasmModuleObjectBuilderStreaming”的客户端使用  (编译源文件 D:\v8-js\node-v9.3.0\deps\v8\src\Debug\obj\global_intermediate\extras-libraries.cc)
+  D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4214): note: 参见“v8::Persistent<v8::Promise,v8::CopyablePersistentTraits<v8::Promise>>”的声明 (编译源文件 D:\v8-js\node-v9.3.0\deps\v8\src\Debug\obj\global_intermediate\experimental-extras-libraries.cc)
+  D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4214): note: 参见“v8::Persistent<v8::Promise,v8::CopyablePersistentTraits<v8::Promise>>”的声明 (编译源文件 D:\v8-js\node-v9.3.0\deps\v8\src\Debug\obj\global_intermediate\libraries.cc)
+  D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4214): note: 参见“v8::Persistent<v8::Promise,v8::CopyablePersistentTraits<v8::Promise>>”的声明 (编译源文件 D:\v8-js\node-v9.3.0\deps\v8\src\Debug\obj\global_intermediate\extras-libraries.cc)
+D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4218): warning C4251: “v8::WasmModuleObjectBuilderStreaming::received_buffers_”: class“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”需要有 dll 接口由 class“v8::WasmModuleObjectBuilderStreaming”的客户端使用
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 D:\v8-js\node-v9.3.0\deps\v8\src\Debug\obj\global_intermediate\extras-libraries.cc)
+D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4218): warning C4251: “v8::WasmModuleObjectBuilderStreaming::received_buffers_”: class“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”需要有 dll 接口由 class“v8::WasmModuleObjectBuilderStreaming”的客户端使用
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 D:\v8-js\node-v9.3.0\deps\v8\src\Debug\obj\global_intermediate\experimental-extras-libraries.cc)
+  D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4218): note: 参见“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 D:\v8-js\node-v9.3.0\deps\v8\src\Debug\obj\global_intermediate\extras-libraries.cc)
+  D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4218): note: 参见“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 D:\v8-js\node-v9.3.0\deps\v8\src\Debug\obj\global_intermediate\experimental-extras-libraries.cc)
+D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4242): warning C4251: “v8::WasmModuleObjectBuilder::received_buffers_”: class“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”需要有 dll 接口由 class“v8::WasmModuleObjectBuilder”的客户端使用
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 D:\v8-js\node-v9.3.0\deps\v8\src\Debug\obj\global_intermediate\extras-libraries.cc)
+  D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4218): note: 参见“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 D:\v8-js\node-v9.3.0\deps\v8\src\Debug\obj\global_intermediate\extras-libraries.cc)
+D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4218): warning C4251: “v8::WasmModuleObjectBuilderStreaming::received_buffers_”: class“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”需要有 dll 接口由 class“v8::WasmModuleObjectBuilderStreaming”的客户端使用
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 D:\v8-js\node-v9.3.0\deps\v8\src\Debug\obj\global_intermediate\libraries.cc)
+  D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4218): note: 参见“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 D:\v8-js\node-v9.3.0\deps\v8\src\Debug\obj\global_intermediate\libraries.cc)
+D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4242): warning C4251: “v8::WasmModuleObjectBuilder::received_buffers_”: class“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”需要有 dll 接口由 class“v8::WasmModuleObjectBuilder”的客户端使用
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 D:\v8-js\node-v9.3.0\deps\v8\src\Debug\obj\global_intermediate\libraries.cc)
+  D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4218): note: 参见“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 D:\v8-js\node-v9.3.0\deps\v8\src\Debug\obj\global_intermediate\libraries.cc)
+D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4242): warning C4251: “v8::WasmModuleObjectBuilder::received_buffers_”: class“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”需要有 dll 接口由 class“v8::WasmModuleObjectBuilder”的客户端使用
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 D:\v8-js\node-v9.3.0\deps\v8\src\Debug\obj\global_intermediate\experimental-extras-libraries.cc)
+  D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4218): note: 参见“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 D:\v8-js\node-v9.3.0\deps\v8\src\Debug\obj\global_intermediate\experimental-extras-libraries.cc)
+D:\v8-js\node-v9.3.0\deps\v8\src/zone/accounting-allocator.h(77): warning C4251: “v8::internal::AccountingAllocator::unused_segments_mutex_”: class“v8::base::Mutex”需要有 dll 接口由 class“v8::internal::AccountingAllocator”的客户端使用  (编译源文件 D:\v8-js\node-v9.3.0\deps\v8\src\Debug\obj\global_intermediate\experimental-extras-libraries.cc)
+  D:\v8-js\node-v9.3.0\deps\v8\src/base/platform/mutex.h(37): note: 参见“v8::base::Mutex”的声明 (编译源文件 D:\v8-js\node-v9.3.0\deps\v8\src\Debug\obj\global_intermediate\experimental-extras-libraries.cc)
+D:\v8-js\node-v9.3.0\deps\v8\src/zone/accounting-allocator.h(83): warning C4251: “v8::internal::AccountingAllocator::memory_pressure_level_”: class“v8::base::AtomicValue<v8::MemoryPressureLevel>”需要有 dll 接口由 class“v8::internal::AccountingAllocator”的客户端使用  (编译源文件 D:\v8-js\node-v9.3.0\deps\v8\src\Debug\obj\global_intermediate\experimental-extras-libraries.cc)
+  D:\v8-js\node-v9.3.0\deps\v8\src/zone/accounting-allocator.h(83): note: 参见“v8::base::AtomicValue<v8::MemoryPressureLevel>”的声明 (编译源文件 D:\v8-js\node-v9.3.0\deps\v8\src\Debug\obj\global_intermediate\experimental-extras-libraries.cc)
+D:\v8-js\node-v9.3.0\deps\v8\src/zone/accounting-allocator.h(77): warning C4251: “v8::internal::AccountingAllocator::unused_segments_mutex_”: class“v8::base::Mutex”需要有 dll 接口由 class“v8::internal::AccountingAllocator”的客户端使用  (编译源文件 D:\v8-js\node-v9.3.0\deps\v8\src\Debug\obj\global_intermediate\libraries.cc)
+  D:\v8-js\node-v9.3.0\deps\v8\src/base/platform/mutex.h(37): note: 参见“v8::base::Mutex”的声明 (编译源文件 D:\v8-js\node-v9.3.0\deps\v8\src\Debug\obj\global_intermediate\libraries.cc)
+D:\v8-js\node-v9.3.0\deps\v8\src/zone/accounting-allocator.h(83): warning C4251: “v8::internal::AccountingAllocator::memory_pressure_level_”: class“v8::base::AtomicValue<v8::MemoryPressureLevel>”需要有 dll 接口由 class“v8::internal::AccountingAllocator”的客户端使用  (编译源文件 D:\v8-js\node-v9.3.0\deps\v8\src\Debug\obj\global_intermediate\libraries.cc)
+  D:\v8-js\node-v9.3.0\deps\v8\src/zone/accounting-allocator.h(83): note: 参见“v8::base::AtomicValue<v8::MemoryPressureLevel>”的声明 (编译源文件 D:\v8-js\node-v9.3.0\deps\v8\src\Debug\obj\global_intermediate\libraries.cc)
+D:\v8-js\node-v9.3.0\deps\v8\src/zone/accounting-allocator.h(77): warning C4251: “v8::internal::AccountingAllocator::unused_segments_mutex_”: class“v8::base::Mutex”需要有 dll 接口由 class“v8::internal::AccountingAllocator”的客户端使用  (编译源文件 D:\v8-js\node-v9.3.0\deps\v8\src\Debug\obj\global_intermediate\extras-libraries.cc)
+  D:\v8-js\node-v9.3.0\deps\v8\src/base/platform/mutex.h(37): note: 参见“v8::base::Mutex”的声明 (编译源文件 D:\v8-js\node-v9.3.0\deps\v8\src\Debug\obj\global_intermediate\extras-libraries.cc)
+D:\v8-js\node-v9.3.0\deps\v8\src/zone/accounting-allocator.h(83): warning C4251: “v8::internal::AccountingAllocator::memory_pressure_level_”: class“v8::base::AtomicValue<v8::MemoryPressureLevel>”需要有 dll 接口由 class“v8::internal::AccountingAllocator”的客户端使用  (编译源文件 D:\v8-js\node-v9.3.0\deps\v8\src\Debug\obj\global_intermediate\extras-libraries.cc)
+  D:\v8-js\node-v9.3.0\deps\v8\src/zone/accounting-allocator.h(83): note: 参见“v8::base::AtomicValue<v8::MemoryPressureLevel>”的声明 (编译源文件 D:\v8-js\node-v9.3.0\deps\v8\src\Debug\obj\global_intermediate\extras-libraries.cc)
+  v8_snapshot.vcxproj -> D:\v8-js\node-v9.3.0\deps\v8\src\Debug\lib\v8_snapshot.lib

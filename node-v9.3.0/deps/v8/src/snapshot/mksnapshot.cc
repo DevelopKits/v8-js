@@ -164,11 +164,11 @@ int main(int argc, char** argv) {
   {
     SnapshotWriter writer;
 #ifdef _DEBUG
-    i::FLAG_startup_src = "E:\\v8-js\\node-v9.3.0\\deps\\v8\\src\\debug\\v8_snapshot.cpp";
-    i::FLAG_startup_blob = "E:\\v8-js\\node-v9.3.0\\deps\\v8\\src\\debug\\v8_snapshot.bin";
+    i::FLAG_startup_src = "d:\\v8-js\\node-v9.3.0\\deps\\v8\\src\\debug\\v8_snapshot.cpp";
+    i::FLAG_startup_blob = "d:\\v8-js\\node-v9.3.0\\deps\\v8\\src\\debug\\v8_snapshot.bin";
 #else
-    i::FLAG_startup_src = "E:\\v8-js\\node-v9.3.0\\deps\\v8\\src\\release\\v8_snapshot.cpp";
-    i::FLAG_startup_blob = "E:\\v8-js\\node-v9.3.0\\deps\\v8\\src\\release\\v8_snapshot.bin";
+    i::FLAG_startup_src = "d:\\v8-js\\node-v9.3.0\\deps\\v8\\src\\release\\v8_snapshot.cpp";
+    i::FLAG_startup_blob = "d:\\v8-js\\node-v9.3.0\\deps\\v8\\src\\release\\v8_snapshot.bin";
 #endif
     if(i::FLAG_startup_src) writer.SetSnapshotFile(i::FLAG_startup_src);
     if (i::FLAG_startup_blob) writer.SetStartupBlobFile(i::FLAG_startup_blob);

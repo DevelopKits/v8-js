@@ -40,7 +40,6 @@
       <Filter>$(IntDir)</Filter>
     </ClCompile>
     <ClCompile Include="setup-isolate-deserialize.cc" />
-    <None Include="v8.gyp" />
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="$(OutDir)\mksnapshot.exe" />

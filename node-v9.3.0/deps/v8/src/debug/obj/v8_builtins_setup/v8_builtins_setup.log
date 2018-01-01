@@ -1,1 +1,80 @@
-﻿
+﻿  setup-isolate-full.cc
+D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4214): warning C4251: “v8::WasmModuleObjectBuilderStreaming::promise_”: class“v8::Persistent<v8::Promise,v8::CopyablePersistentTraits<v8::Promise>>”需要有 dll 接口由 class“v8::WasmModuleObjectBuilderStreaming”的客户端使用
+  D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4214): note: 参见“v8::Persistent<v8::Promise,v8::CopyablePersistentTraits<v8::Promise>>”的声明
+D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4218): warning C4251: “v8::WasmModuleObjectBuilderStreaming::received_buffers_”: class“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”需要有 dll 接口由 class“v8::WasmModuleObjectBuilderStreaming”的客户端使用
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ]
+  D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4218): note: 参见“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ]
+D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4242): warning C4251: “v8::WasmModuleObjectBuilder::received_buffers_”: class“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”需要有 dll 接口由 class“v8::WasmModuleObjectBuilder”的客户端使用
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ]
+  D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4218): note: 参见“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ]
+D:\v8-js\node-v9.3.0\deps\v8\src/zone/accounting-allocator.h(77): warning C4251: “v8::internal::AccountingAllocator::unused_segments_mutex_”: class“v8::base::Mutex”需要有 dll 接口由 class“v8::internal::AccountingAllocator”的客户端使用
+  D:\v8-js\node-v9.3.0\deps\v8\src/base/platform/mutex.h(37): note: 参见“v8::base::Mutex”的声明
+D:\v8-js\node-v9.3.0\deps\v8\src/zone/accounting-allocator.h(83): warning C4251: “v8::internal::AccountingAllocator::memory_pressure_level_”: class“v8::base::AtomicValue<v8::MemoryPressureLevel>”需要有 dll 接口由 class“v8::internal::AccountingAllocator”的客户端使用
+  D:\v8-js\node-v9.3.0\deps\v8\src/zone/accounting-allocator.h(83): note: 参见“v8::base::AtomicValue<v8::MemoryPressureLevel>”的声明
+D:\v8-js\node-v9.3.0\deps\v8\src/execution.h(224): warning C4251: “v8::internal::StackGuard::thread_local_”: class“v8::internal::StackGuard::ThreadLocal”需要有 dll 接口由 class“v8::internal::StackGuard”的客户端使用
+  D:\v8-js\node-v9.3.0\deps\v8\src/execution.h(175): note: 参见“v8::internal::StackGuard::ThreadLocal”的声明
+d:\vs17\VC\Tools\MSVC\14.12.25827\include\vector(659): warning C4251: “std::_Vector_alloc<std::_Vec_base_types<_Ty,_Alloc>>::_Mypair”: class“std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>”需要有 dll 接口由 class“std::_Vector_alloc<std::_Vec_base_types<_Ty,_Alloc>>”的客户端使用
+          with
+          [
+              _Ty=v8::CpuProfileDeoptFrame,
+              _Alloc=std::allocator<v8::CpuProfileDeoptFrame>
+          ]
+          and
+          [
+              _Ty=v8::CpuProfileDeoptFrame
+          ]
+          and
+          [
+              _Ty=v8::CpuProfileDeoptFrame,
+              _Alloc=std::allocator<v8::CpuProfileDeoptFrame>
+          ]
+  d:\vs17\VC\Tools\MSVC\14.12.25827\include\vector(638): note: 参见“std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>”的声明
+          with
+          [
+              _Ty=v8::CpuProfileDeoptFrame
+          ]
+  D:\v8-js\node-v9.3.0\deps\v8\include/v8-profiler.h(31): note: 参见对正在编译的 类 模板 实例化 "std::vector<v8::CpuProfileDeoptFrame,std::allocator<_Ty>>" 的引用
+          with
+          [
+              _Ty=v8::CpuProfileDeoptFrame
+          ]
+d:\vs17\VC\Tools\MSVC\14.12.25827\include\vector(659): warning C4251: “std::_Vector_alloc<std::_Vec_base_types<_Ty,_Alloc>>::_Mypair”: class“std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>”需要有 dll 接口由 class“std::_Vector_alloc<std::_Vec_base_types<_Ty,_Alloc>>”的客户端使用
+          with
+          [
+              _Ty=v8::CpuProfileDeoptInfo,
+              _Alloc=std::allocator<v8::CpuProfileDeoptInfo>
+          ]
+          and
+          [
+              _Ty=v8::CpuProfileDeoptInfo
+          ]
+          and
+          [
+              _Ty=v8::CpuProfileDeoptInfo,
+              _Alloc=std::allocator<v8::CpuProfileDeoptInfo>
+          ]
+  d:\vs17\VC\Tools\MSVC\14.12.25827\include\vector(638): note: 参见“std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>”的声明
+          with
+          [
+              _Ty=v8::CpuProfileDeoptInfo
+          ]
+  D:\v8-js\node-v9.3.0\deps\v8\include/v8-profiler.h(45): note: 参见对正在编译的 类 模板 实例化 "std::vector<v8::CpuProfileDeoptInfo,std::allocator<_Ty>>" 的引用
+          with
+          [
+              _Ty=v8::CpuProfileDeoptInfo
+          ]
+  v8_builtins_setup.vcxproj -> D:\v8-js\node-v9.3.0\deps\v8\src\Debug\lib\v8_builtins_setup.lib

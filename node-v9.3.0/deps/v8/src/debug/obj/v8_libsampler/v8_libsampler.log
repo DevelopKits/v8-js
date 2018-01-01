@@ -1,1 +1,24 @@
-﻿
+﻿  sampler.cc
+D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4214): warning C4251: “v8::WasmModuleObjectBuilderStreaming::promise_”: class“v8::Persistent<v8::Promise,v8::CopyablePersistentTraits<v8::Promise>>”需要有 dll 接口由 class“v8::WasmModuleObjectBuilderStreaming”的客户端使用
+  D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4214): note: 参见“v8::Persistent<v8::Promise,v8::CopyablePersistentTraits<v8::Promise>>”的声明
+D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4218): warning C4251: “v8::WasmModuleObjectBuilderStreaming::received_buffers_”: class“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”需要有 dll 接口由 class“v8::WasmModuleObjectBuilderStreaming”的客户端使用
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ]
+  D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4218): note: 参见“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ]
+D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4242): warning C4251: “v8::WasmModuleObjectBuilder::received_buffers_”: class“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”需要有 dll 接口由 class“v8::WasmModuleObjectBuilder”的客户端使用
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ]
+  D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4218): note: 参见“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ]
+  v8_libsampler.vcxproj -> D:\v8-js\node-v9.3.0\deps\v8\src\Debug\lib\v8_libsampler.lib

@@ -1,1 +1,19 @@
-﻿
+﻿  errmsg.c
+  rbutil.c
+  read.c
+  rle.c
+  ustr.c
+  genrb.cpp
+  parse.cpp
+  prscmnts.cpp
+  reslist.cpp
+D:\v8-js\node-v9.3.0\deps\icu-small\source\common\unicode/stringoptions.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\deps\icu-small\source\tools\genrb\genrb.cpp)
+D:\v8-js\node-v9.3.0\deps\icu-small\source\common\unicode/stringoptions.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\deps\icu-small\source\tools\genrb\parse.cpp)
+  wrtjava.cpp
+  wrtxml.cpp
+D:\v8-js\node-v9.3.0\deps\icu-small\source\common\unicode/stringoptions.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\deps\icu-small\source\tools\genrb\wrtjava.cpp)
+D:\v8-js\node-v9.3.0\deps\icu-small\source\common\unicode/stringoptions.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\deps\icu-small\source\tools\genrb\wrtxml.cpp)
+  正在生成代码
+  All 7960 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  genrb.vcxproj -> D:\v8-js\node-v9.3.0\deps\v8\src\Release\\genrb.exe

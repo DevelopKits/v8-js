@@ -1,1 +1,31 @@
-﻿
+﻿  icutrim
+  D:\v8-js\node-v9.3.0\deps\v8\src\Debug\obj\global_intermediate\icutmp\lang/res_index.txt:7: warning: Encountered empty table
+  en
+  en
+  D:\v8-js\node-v9.3.0\deps\v8\src\Debug\obj\global_intermediate\icutmp\rbnf/res_index.txt:7: warning: Encountered empty table
+  D:\v8-js\node-v9.3.0\deps\v8\src\Debug\obj\global_intermediate\icutmp\brkitr/res_index.txt:7: warning: Encountered empty table
+  en
+  D:\v8-js\node-v9.3.0\deps\v8\src\Debug\obj\global_intermediate\icutmp\region/res_index.txt:7: warning: Encountered empty table
+  en
+  D:\v8-js\node-v9.3.0\deps\v8\src\Debug\obj\global_intermediate\icutmp\unit/res_index.txt:7: warning: Encountered empty table
+  Options: {'verbose': 1, 'filterfile': 'icu_small.json', 'toolpath': 'D:\\v8-js\\node-v9.3.0\\deps\\v8\\src\\Debug\\', 'deltmpdir': 1, 'outfile': 'icudt60l.dat', 'datfile': '..\\..\\deps\\icu-small\\source\\data\\in\\icudt60l.dat', 'locales': 'en,root', 'endian': 'little', 'tmpdir': 'D:\\v8-js\\node-v9.3.0\\deps\\v8\\src\\Debug\\obj\\global_intermediate\\icutmp'}
+  icu_small.json: icutrim.py config: Trim down ICU to just a certain locale set, needed for node.js use.
+  * converters: 0 items
+  * stringprep: 0 items
+  * translit: 2 items
+  * brkfiles: 0 items
+  * brkdict: 0 items
+  * confusables: 0 items
+  * brkitr: 0 items
+  * coll: 1 items
+  * curr: 1 items
+  * lang: 0 items
+  * rbnf: 0 items
+  * region: 0 items
+  * ROOT: 1 items
+  * unit: 0 items
+  * zone: 1 items
+  genccode
+  generating object code for D:\v8-js\node-v9.3.0\deps\v8\src\Debug\obj\global_intermediate\icutmp\icudt60l.dat
+  genccode: using architecture cpu=332 bits=32 big-endian=0
+  icudata.vcxproj -> D:\v8-js\node-v9.3.0\deps\v8\src\Debug\lib\icudata.lib

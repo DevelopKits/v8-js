@@ -1,1 +1,368 @@
-﻿
+﻿  search-util.cc
+  string-util.cc
+  v8-console.cc
+  v8-console-message.cc
+D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4214): warning C4251: “v8::WasmModuleObjectBuilderStreaming::promise_”: class“v8::Persistent<v8::Promise,v8::CopyablePersistentTraits<v8::Promise>>”需要有 dll 接口由 class“v8::WasmModuleObjectBuilderStreaming”的客户端使用  (编译源文件 inspector\v8-console-message.cc)
+  D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4214): note: 参见“v8::Persistent<v8::Promise,v8::CopyablePersistentTraits<v8::Promise>>”的声明 (编译源文件 inspector\v8-console-message.cc)
+D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4218): warning C4251: “v8::WasmModuleObjectBuilderStreaming::received_buffers_”: class“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”需要有 dll 接口由 class“v8::WasmModuleObjectBuilderStreaming”的客户端使用
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 inspector\v8-console-message.cc)
+  D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4218): note: 参见“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 inspector\v8-console-message.cc)
+D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4242): warning C4251: “v8::WasmModuleObjectBuilder::received_buffers_”: class“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”需要有 dll 接口由 class“v8::WasmModuleObjectBuilder”的客户端使用
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 inspector\v8-console-message.cc)
+  D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4218): note: 参见“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 inspector\v8-console-message.cc)
+D:\v8-js\node-v9.3.0\deps\v8\src/inspector/string-16.h(70): warning C4244: “初始化”: 从“const v8_inspector::UChar”转换到“char”，可能丢失数据 (编译源文件 inspector\string-util.cc)
+D:\v8-js\node-v9.3.0\deps\v8\src/inspector/string-16.h(70): warning C4244: “初始化”: 从“const v8_inspector::UChar”转换到“char”，可能丢失数据 (编译源文件 inspector\search-util.cc)
+D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4214): warning C4251: “v8::WasmModuleObjectBuilderStreaming::promise_”: class“v8::Persistent<v8::Promise,v8::CopyablePersistentTraits<v8::Promise>>”需要有 dll 接口由 class“v8::WasmModuleObjectBuilderStreaming”的客户端使用  (编译源文件 inspector\v8-console.cc)
+  D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4214): note: 参见“v8::Persistent<v8::Promise,v8::CopyablePersistentTraits<v8::Promise>>”的声明 (编译源文件 inspector\v8-console.cc)
+D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4218): warning C4251: “v8::WasmModuleObjectBuilderStreaming::received_buffers_”: class“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”需要有 dll 接口由 class“v8::WasmModuleObjectBuilderStreaming”的客户端使用
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 inspector\v8-console.cc)
+  D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4218): note: 参见“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 inspector\v8-console.cc)
+D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4242): warning C4251: “v8::WasmModuleObjectBuilder::received_buffers_”: class“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”需要有 dll 接口由 class“v8::WasmModuleObjectBuilder”的客户端使用
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 inspector\v8-console.cc)
+  D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4218): note: 参见“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 inspector\v8-console.cc)
+d:\v8-js\node-v9.3.0\deps\v8\include\v8.h(4214): warning C4251: “v8::WasmModuleObjectBuilderStreaming::promise_”: class“v8::Persistent<v8::Promise,v8::CopyablePersistentTraits<v8::Promise>>”需要有 dll 接口由 class“v8::WasmModuleObjectBuilderStreaming”的客户端使用  (编译源文件 inspector\search-util.cc)
+  d:\v8-js\node-v9.3.0\deps\v8\include\v8.h(4214): note: 参见“v8::Persistent<v8::Promise,v8::CopyablePersistentTraits<v8::Promise>>”的声明 (编译源文件 inspector\search-util.cc)
+d:\v8-js\node-v9.3.0\deps\v8\include\v8.h(4218): warning C4251: “v8::WasmModuleObjectBuilderStreaming::received_buffers_”: class“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”需要有 dll 接口由 class“v8::WasmModuleObjectBuilderStreaming”的客户端使用
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 inspector\search-util.cc)
+  d:\v8-js\node-v9.3.0\deps\v8\include\v8.h(4218): note: 参见“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 inspector\search-util.cc)
+d:\v8-js\node-v9.3.0\deps\v8\include\v8.h(4242): warning C4251: “v8::WasmModuleObjectBuilder::received_buffers_”: class“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”需要有 dll 接口由 class“v8::WasmModuleObjectBuilder”的客户端使用
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 inspector\search-util.cc)
+  d:\v8-js\node-v9.3.0\deps\v8\include\v8.h(4218): note: 参见“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 inspector\search-util.cc)
+d:\v8-js\node-v9.3.0\deps\v8\include\v8.h(4214): warning C4251: “v8::WasmModuleObjectBuilderStreaming::promise_”: class“v8::Persistent<v8::Promise,v8::CopyablePersistentTraits<v8::Promise>>”需要有 dll 接口由 class“v8::WasmModuleObjectBuilderStreaming”的客户端使用  (编译源文件 inspector\string-util.cc)
+  d:\v8-js\node-v9.3.0\deps\v8\include\v8.h(4214): note: 参见“v8::Persistent<v8::Promise,v8::CopyablePersistentTraits<v8::Promise>>”的声明 (编译源文件 inspector\string-util.cc)
+d:\v8-js\node-v9.3.0\deps\v8\include\v8.h(4218): warning C4251: “v8::WasmModuleObjectBuilderStreaming::received_buffers_”: class“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”需要有 dll 接口由 class“v8::WasmModuleObjectBuilderStreaming”的客户端使用
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 inspector\string-util.cc)
+  d:\v8-js\node-v9.3.0\deps\v8\include\v8.h(4218): note: 参见“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 inspector\string-util.cc)
+d:\v8-js\node-v9.3.0\deps\v8\include\v8.h(4242): warning C4251: “v8::WasmModuleObjectBuilder::received_buffers_”: class“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”需要有 dll 接口由 class“v8::WasmModuleObjectBuilder”的客户端使用
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 inspector\string-util.cc)
+  d:\v8-js\node-v9.3.0\deps\v8\include\v8.h(4218): note: 参见“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 inspector\string-util.cc)
+D:\v8-js\node-v9.3.0\deps\v8\include/v8-inspector.h(80): warning C4251: “v8_inspector::V8ContextInfo::context”: class“v8::Local<v8::Context>”需要有 dll 接口由 class“v8_inspector::V8ContextInfo”的客户端使用  (编译源文件 inspector\string-util.cc)
+  d:\v8-js\node-v9.3.0\deps\v8\include\v8.h(1147): note: 参见“v8::Local<v8::Context>”的声明 (编译源文件 inspector\string-util.cc)
+D:\v8-js\node-v9.3.0\deps\v8\src/inspector/string-16.h(70): warning C4244: “初始化”: 从“const v8_inspector::UChar”转换到“char”，可能丢失数据 (编译源文件 inspector\v8-console.cc)
+D:\v8-js\node-v9.3.0\deps\v8\include/v8-inspector.h(80): warning C4251: “v8_inspector::V8ContextInfo::context”: class“v8::Local<v8::Context>”需要有 dll 接口由 class“v8_inspector::V8ContextInfo”的客户端使用  (编译源文件 inspector\search-util.cc)
+  d:\v8-js\node-v9.3.0\deps\v8\include\v8.h(1147): note: 参见“v8::Local<v8::Context>”的声明 (编译源文件 inspector\search-util.cc)
+D:\v8-js\node-v9.3.0\deps\v8\src/inspector/string-16.h(70): warning C4244: “初始化”: 从“const v8_inspector::UChar”转换到“char”，可能丢失数据 (编译源文件 inspector\v8-console-message.cc)
+D:\v8-js\node-v9.3.0\deps\v8\include/v8-inspector.h(80): warning C4251: “v8_inspector::V8ContextInfo::context”: class“v8::Local<v8::Context>”需要有 dll 接口由 class“v8_inspector::V8ContextInfo”的客户端使用  (编译源文件 inspector\v8-console-message.cc)
+  D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(1147): note: 参见“v8::Local<v8::Context>”的声明 (编译源文件 inspector\v8-console-message.cc)
+D:\v8-js\node-v9.3.0\deps\v8\include/v8-inspector.h(80): warning C4251: “v8_inspector::V8ContextInfo::context”: class“v8::Local<v8::Context>”需要有 dll 接口由 class“v8_inspector::V8ContextInfo”的客户端使用  (编译源文件 inspector\v8-console.cc)
+  D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(1147): note: 参见“v8::Local<v8::Context>”的声明 (编译源文件 inspector\v8-console.cc)
+D:\v8-js\node-v9.3.0\deps\v8\src/zone/accounting-allocator.h(77): warning C4251: “v8::internal::AccountingAllocator::unused_segments_mutex_”: class“v8::base::Mutex”需要有 dll 接口由 class“v8::internal::AccountingAllocator”的客户端使用  (编译源文件 inspector\string-util.cc)
+  D:\v8-js\node-v9.3.0\deps\v8\src/globals.h(63): note: 参见“v8::base::Mutex”的声明 (编译源文件 inspector\string-util.cc)
+D:\v8-js\node-v9.3.0\deps\v8\src/zone/accounting-allocator.h(83): warning C4251: “v8::internal::AccountingAllocator::memory_pressure_level_”: class“v8::base::AtomicValue<v8::MemoryPressureLevel>”需要有 dll 接口由 class“v8::internal::AccountingAllocator”的客户端使用  (编译源文件 inspector\string-util.cc)
+  D:\v8-js\node-v9.3.0\deps\v8\src/zone/accounting-allocator.h(83): note: 参见“v8::base::AtomicValue<v8::MemoryPressureLevel>”的声明 (编译源文件 inspector\string-util.cc)
+  v8-debugger-agent-impl.cc
+d:\v8-js\node-v9.3.0\deps\v8\include\v8.h(4214): warning C4251: “v8::WasmModuleObjectBuilderStreaming::promise_”: class“v8::Persistent<v8::Promise,v8::CopyablePersistentTraits<v8::Promise>>”需要有 dll 接口由 class“v8::WasmModuleObjectBuilderStreaming”的客户端使用  (编译源文件 inspector\v8-debugger-agent-impl.cc)
+  d:\v8-js\node-v9.3.0\deps\v8\include\v8.h(4214): note: 参见“v8::Persistent<v8::Promise,v8::CopyablePersistentTraits<v8::Promise>>”的声明 (编译源文件 inspector\v8-debugger-agent-impl.cc)
+d:\v8-js\node-v9.3.0\deps\v8\include\v8.h(4218): warning C4251: “v8::WasmModuleObjectBuilderStreaming::received_buffers_”: class“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”需要有 dll 接口由 class“v8::WasmModuleObjectBuilderStreaming”的客户端使用
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 inspector\v8-debugger-agent-impl.cc)
+  d:\v8-js\node-v9.3.0\deps\v8\include\v8.h(4218): note: 参见“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 inspector\v8-debugger-agent-impl.cc)
+d:\v8-js\node-v9.3.0\deps\v8\include\v8.h(4242): warning C4251: “v8::WasmModuleObjectBuilder::received_buffers_”: class“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”需要有 dll 接口由 class“v8::WasmModuleObjectBuilder”的客户端使用
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 inspector\v8-debugger-agent-impl.cc)
+  d:\v8-js\node-v9.3.0\deps\v8\include\v8.h(4218): note: 参见“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 inspector\v8-debugger-agent-impl.cc)
+  v8-function-call.cc
+D:\v8-js\node-v9.3.0\deps\v8\src/inspector/string-16.h(70): warning C4244: “初始化”: 从“const v8_inspector::UChar”转换到“char”，可能丢失数据 (编译源文件 inspector\v8-debugger-agent-impl.cc)
+D:\v8-js\node-v9.3.0\deps\v8\include/v8-inspector.h(80): warning C4251: “v8_inspector::V8ContextInfo::context”: class“v8::Local<v8::Context>”需要有 dll 接口由 class“v8_inspector::V8ContextInfo”的客户端使用  (编译源文件 inspector\v8-debugger-agent-impl.cc)
+  d:\v8-js\node-v9.3.0\deps\v8\include\v8.h(1147): note: 参见“v8::Local<v8::Context>”的声明 (编译源文件 inspector\v8-debugger-agent-impl.cc)
+  v8-injected-script-host.cc
+D:\v8-js\node-v9.3.0\deps\v8\src/inspector/string-16.h(70): warning C4244: “初始化”: 从“const v8_inspector::UChar”转换到“char”，可能丢失数据 (编译源文件 inspector\v8-function-call.cc)
+D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4214): warning C4251: “v8::WasmModuleObjectBuilderStreaming::promise_”: class“v8::Persistent<v8::Promise,v8::CopyablePersistentTraits<v8::Promise>>”需要有 dll 接口由 class“v8::WasmModuleObjectBuilderStreaming”的客户端使用  (编译源文件 inspector\v8-function-call.cc)
+  D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4214): note: 参见“v8::Persistent<v8::Promise,v8::CopyablePersistentTraits<v8::Promise>>”的声明 (编译源文件 inspector\v8-function-call.cc)
+D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4218): warning C4251: “v8::WasmModuleObjectBuilderStreaming::received_buffers_”: class“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”需要有 dll 接口由 class“v8::WasmModuleObjectBuilderStreaming”的客户端使用
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 inspector\v8-function-call.cc)
+  D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4218): note: 参见“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 inspector\v8-function-call.cc)
+D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4242): warning C4251: “v8::WasmModuleObjectBuilder::received_buffers_”: class“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”需要有 dll 接口由 class“v8::WasmModuleObjectBuilder”的客户端使用
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 inspector\v8-function-call.cc)
+  D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4218): note: 参见“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 inspector\v8-function-call.cc)
+D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4214): warning C4251: “v8::WasmModuleObjectBuilderStreaming::promise_”: class“v8::Persistent<v8::Promise,v8::CopyablePersistentTraits<v8::Promise>>”需要有 dll 接口由 class“v8::WasmModuleObjectBuilderStreaming”的客户端使用  (编译源文件 inspector\v8-injected-script-host.cc)
+  D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4214): note: 参见“v8::Persistent<v8::Promise,v8::CopyablePersistentTraits<v8::Promise>>”的声明 (编译源文件 inspector\v8-injected-script-host.cc)
+D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4218): warning C4251: “v8::WasmModuleObjectBuilderStreaming::received_buffers_”: class“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”需要有 dll 接口由 class“v8::WasmModuleObjectBuilderStreaming”的客户端使用
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 inspector\v8-injected-script-host.cc)
+  D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4218): note: 参见“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 inspector\v8-injected-script-host.cc)
+D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4242): warning C4251: “v8::WasmModuleObjectBuilder::received_buffers_”: class“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”需要有 dll 接口由 class“v8::WasmModuleObjectBuilder”的客户端使用
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 inspector\v8-injected-script-host.cc)
+  D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4218): note: 参见“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 inspector\v8-injected-script-host.cc)
+D:\v8-js\node-v9.3.0\deps\v8\include/v8-inspector.h(80): warning C4251: “v8_inspector::V8ContextInfo::context”: class“v8::Local<v8::Context>”需要有 dll 接口由 class“v8_inspector::V8ContextInfo”的客户端使用  (编译源文件 inspector\v8-function-call.cc)
+  D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(1147): note: 参见“v8::Local<v8::Context>”的声明 (编译源文件 inspector\v8-function-call.cc)
+D:\v8-js\node-v9.3.0\deps\v8\src/inspector/string-16.h(70): warning C4244: “初始化”: 从“const v8_inspector::UChar”转换到“char”，可能丢失数据 (编译源文件 inspector\v8-injected-script-host.cc)
+  v8-inspector-session-impl.cc
+D:\v8-js\node-v9.3.0\deps\v8\include/v8-inspector.h(80): warning C4251: “v8_inspector::V8ContextInfo::context”: class“v8::Local<v8::Context>”需要有 dll 接口由 class“v8_inspector::V8ContextInfo”的客户端使用  (编译源文件 inspector\v8-injected-script-host.cc)
+  D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(1147): note: 参见“v8::Local<v8::Context>”的声明 (编译源文件 inspector\v8-injected-script-host.cc)
+D:\v8-js\node-v9.3.0\deps\v8\src/inspector/string-16.h(70): warning C4244: “初始化”: 从“const v8_inspector::UChar”转换到“char”，可能丢失数据 (编译源文件 inspector\v8-inspector-session-impl.cc)
+d:\v8-js\node-v9.3.0\deps\v8\include\v8.h(4214): warning C4251: “v8::WasmModuleObjectBuilderStreaming::promise_”: class“v8::Persistent<v8::Promise,v8::CopyablePersistentTraits<v8::Promise>>”需要有 dll 接口由 class“v8::WasmModuleObjectBuilderStreaming”的客户端使用  (编译源文件 inspector\v8-inspector-session-impl.cc)
+  d:\v8-js\node-v9.3.0\deps\v8\include\v8.h(4214): note: 参见“v8::Persistent<v8::Promise,v8::CopyablePersistentTraits<v8::Promise>>”的声明 (编译源文件 inspector\v8-inspector-session-impl.cc)
+d:\v8-js\node-v9.3.0\deps\v8\include\v8.h(4218): warning C4251: “v8::WasmModuleObjectBuilderStreaming::received_buffers_”: class“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”需要有 dll 接口由 class“v8::WasmModuleObjectBuilderStreaming”的客户端使用
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 inspector\v8-inspector-session-impl.cc)
+  d:\v8-js\node-v9.3.0\deps\v8\include\v8.h(4218): note: 参见“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 inspector\v8-inspector-session-impl.cc)
+d:\v8-js\node-v9.3.0\deps\v8\include\v8.h(4242): warning C4251: “v8::WasmModuleObjectBuilder::received_buffers_”: class“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”需要有 dll 接口由 class“v8::WasmModuleObjectBuilder”的客户端使用
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 inspector\v8-inspector-session-impl.cc)
+  d:\v8-js\node-v9.3.0\deps\v8\include\v8.h(4218): note: 参见“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 inspector\v8-inspector-session-impl.cc)
+D:\v8-js\node-v9.3.0\deps\v8\include/v8-inspector.h(80): warning C4251: “v8_inspector::V8ContextInfo::context”: class“v8::Local<v8::Context>”需要有 dll 接口由 class“v8_inspector::V8ContextInfo”的客户端使用  (编译源文件 inspector\v8-inspector-session-impl.cc)
+  d:\v8-js\node-v9.3.0\deps\v8\include\v8.h(1147): note: 参见“v8::Local<v8::Context>”的声明 (编译源文件 inspector\v8-inspector-session-impl.cc)
+  v8-profiler-agent-impl.cc
+D:\v8-js\node-v9.3.0\deps\v8\src/inspector/string-16.h(70): warning C4244: “初始化”: 从“const v8_inspector::UChar”转换到“char”，可能丢失数据 (编译源文件 inspector\v8-profiler-agent-impl.cc)
+  v8-runtime-agent-impl.cc
+d:\v8-js\node-v9.3.0\deps\v8\include\v8.h(4214): warning C4251: “v8::WasmModuleObjectBuilderStreaming::promise_”: class“v8::Persistent<v8::Promise,v8::CopyablePersistentTraits<v8::Promise>>”需要有 dll 接口由 class“v8::WasmModuleObjectBuilderStreaming”的客户端使用  (编译源文件 inspector\v8-profiler-agent-impl.cc)
+  d:\v8-js\node-v9.3.0\deps\v8\include\v8.h(4214): note: 参见“v8::Persistent<v8::Promise,v8::CopyablePersistentTraits<v8::Promise>>”的声明 (编译源文件 inspector\v8-profiler-agent-impl.cc)
+d:\v8-js\node-v9.3.0\deps\v8\include\v8.h(4218): warning C4251: “v8::WasmModuleObjectBuilderStreaming::received_buffers_”: class“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”需要有 dll 接口由 class“v8::WasmModuleObjectBuilderStreaming”的客户端使用
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 inspector\v8-profiler-agent-impl.cc)
+  d:\v8-js\node-v9.3.0\deps\v8\include\v8.h(4218): note: 参见“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 inspector\v8-profiler-agent-impl.cc)
+d:\v8-js\node-v9.3.0\deps\v8\include\v8.h(4242): warning C4251: “v8::WasmModuleObjectBuilder::received_buffers_”: class“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”需要有 dll 接口由 class“v8::WasmModuleObjectBuilder”的客户端使用
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 inspector\v8-profiler-agent-impl.cc)
+  d:\v8-js\node-v9.3.0\deps\v8\include\v8.h(4218): note: 参见“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 inspector\v8-profiler-agent-impl.cc)
+D:\v8-js\node-v9.3.0\deps\v8\include/v8-inspector.h(80): warning C4251: “v8_inspector::V8ContextInfo::context”: class“v8::Local<v8::Context>”需要有 dll 接口由 class“v8_inspector::V8ContextInfo”的客户端使用  (编译源文件 inspector\v8-profiler-agent-impl.cc)
+  d:\v8-js\node-v9.3.0\deps\v8\include\v8.h(1147): note: 参见“v8::Local<v8::Context>”的声明 (编译源文件 inspector\v8-profiler-agent-impl.cc)
+  v8-stack-trace-impl.cc
+D:\v8-js\node-v9.3.0\deps\v8\src/inspector/string-16.h(70): warning C4244: “初始化”: 从“const v8_inspector::UChar”转换到“char”，可能丢失数据 (编译源文件 inspector\v8-runtime-agent-impl.cc)
+d:\v8-js\node-v9.3.0\deps\v8\include\v8.h(4214): warning C4251: “v8::WasmModuleObjectBuilderStreaming::promise_”: class“v8::Persistent<v8::Promise,v8::CopyablePersistentTraits<v8::Promise>>”需要有 dll 接口由 class“v8::WasmModuleObjectBuilderStreaming”的客户端使用  (编译源文件 inspector\v8-stack-trace-impl.cc)
+  d:\v8-js\node-v9.3.0\deps\v8\include\v8.h(4214): note: 参见“v8::Persistent<v8::Promise,v8::CopyablePersistentTraits<v8::Promise>>”的声明 (编译源文件 inspector\v8-stack-trace-impl.cc)
+d:\v8-js\node-v9.3.0\deps\v8\include\v8.h(4218): warning C4251: “v8::WasmModuleObjectBuilderStreaming::received_buffers_”: class“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”需要有 dll 接口由 class“v8::WasmModuleObjectBuilderStreaming”的客户端使用
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 inspector\v8-stack-trace-impl.cc)
+  d:\v8-js\node-v9.3.0\deps\v8\include\v8.h(4218): note: 参见“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 inspector\v8-stack-trace-impl.cc)
+d:\v8-js\node-v9.3.0\deps\v8\include\v8.h(4242): warning C4251: “v8::WasmModuleObjectBuilder::received_buffers_”: class“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”需要有 dll 接口由 class“v8::WasmModuleObjectBuilder”的客户端使用
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 inspector\v8-stack-trace-impl.cc)
+  d:\v8-js\node-v9.3.0\deps\v8\include\v8.h(4218): note: 参见“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 inspector\v8-stack-trace-impl.cc)
+d:\v8-js\node-v9.3.0\deps\v8\include\v8.h(4214): warning C4251: “v8::WasmModuleObjectBuilderStreaming::promise_”: class“v8::Persistent<v8::Promise,v8::CopyablePersistentTraits<v8::Promise>>”需要有 dll 接口由 class“v8::WasmModuleObjectBuilderStreaming”的客户端使用  (编译源文件 inspector\v8-runtime-agent-impl.cc)
+  d:\v8-js\node-v9.3.0\deps\v8\include\v8.h(4214): note: 参见“v8::Persistent<v8::Promise,v8::CopyablePersistentTraits<v8::Promise>>”的声明 (编译源文件 inspector\v8-runtime-agent-impl.cc)
+d:\v8-js\node-v9.3.0\deps\v8\include\v8.h(4218): warning C4251: “v8::WasmModuleObjectBuilderStreaming::received_buffers_”: class“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”需要有 dll 接口由 class“v8::WasmModuleObjectBuilderStreaming”的客户端使用
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 inspector\v8-runtime-agent-impl.cc)
+  d:\v8-js\node-v9.3.0\deps\v8\include\v8.h(4218): note: 参见“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 inspector\v8-runtime-agent-impl.cc)
+d:\v8-js\node-v9.3.0\deps\v8\include\v8.h(4242): warning C4251: “v8::WasmModuleObjectBuilder::received_buffers_”: class“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”需要有 dll 接口由 class“v8::WasmModuleObjectBuilder”的客户端使用
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 inspector\v8-runtime-agent-impl.cc)
+  d:\v8-js\node-v9.3.0\deps\v8\include\v8.h(4218): note: 参见“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 inspector\v8-runtime-agent-impl.cc)
+D:\v8-js\node-v9.3.0\deps\v8\include/v8-inspector.h(80): warning C4251: “v8_inspector::V8ContextInfo::context”: class“v8::Local<v8::Context>”需要有 dll 接口由 class“v8_inspector::V8ContextInfo”的客户端使用  (编译源文件 inspector\v8-stack-trace-impl.cc)
+  d:\v8-js\node-v9.3.0\deps\v8\include\v8.h(1147): note: 参见“v8::Local<v8::Context>”的声明 (编译源文件 inspector\v8-stack-trace-impl.cc)
+D:\v8-js\node-v9.3.0\deps\v8\include/v8-inspector.h(80): warning C4251: “v8_inspector::V8ContextInfo::context”: class“v8::Local<v8::Context>”需要有 dll 接口由 class“v8_inspector::V8ContextInfo”的客户端使用  (编译源文件 inspector\v8-runtime-agent-impl.cc)
+  d:\v8-js\node-v9.3.0\deps\v8\include\v8.h(1147): note: 参见“v8::Local<v8::Context>”的声明 (编译源文件 inspector\v8-runtime-agent-impl.cc)
+D:\v8-js\node-v9.3.0\deps\v8\src/inspector/string-16.h(70): warning C4244: “初始化”: 从“const v8_inspector::UChar”转换到“char”，可能丢失数据 (编译源文件 inspector\v8-stack-trace-impl.cc)
+D:\vs17\VC\Tools\MSVC\14.12.25827\include\vector(659): warning C4251: “std::_Vector_alloc<std::_Vec_base_types<_Ty,_Alloc>>::_Mypair”: class“std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>”需要有 dll 接口由 class“std::_Vector_alloc<std::_Vec_base_types<_Ty,_Alloc>>”的客户端使用
+          with
+          [
+              _Ty=v8::CpuProfileDeoptFrame,
+              _Alloc=std::allocator<v8::CpuProfileDeoptFrame>
+          ]
+          and
+          [
+              _Ty=v8::CpuProfileDeoptFrame
+          ]
+          and
+          [
+              _Ty=v8::CpuProfileDeoptFrame,
+              _Alloc=std::allocator<v8::CpuProfileDeoptFrame>
+          ] (编译源文件 inspector\v8-profiler-agent-impl.cc)
+  D:\vs17\VC\Tools\MSVC\14.12.25827\include\vector(638): note: 参见“std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>”的声明
+          with
+          [
+              _Ty=v8::CpuProfileDeoptFrame
+          ] (编译源文件 inspector\v8-profiler-agent-impl.cc)
+  D:\v8-js\node-v9.3.0\deps\v8\include/v8-profiler.h(31): note: 参见对正在编译的 类 模板 实例化 "std::vector<v8::CpuProfileDeoptFrame,std::allocator<_Ty>>" 的引用
+          with
+          [
+              _Ty=v8::CpuProfileDeoptFrame
+          ] (编译源文件 inspector\v8-profiler-agent-impl.cc)
+D:\vs17\VC\Tools\MSVC\14.12.25827\include\vector(659): warning C4251: “std::_Vector_alloc<std::_Vec_base_types<_Ty,_Alloc>>::_Mypair”: class“std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>”需要有 dll 接口由 class“std::_Vector_alloc<std::_Vec_base_types<_Ty,_Alloc>>”的客户端使用
+          with
+          [
+              _Ty=v8::CpuProfileDeoptInfo,
+              _Alloc=std::allocator<v8::CpuProfileDeoptInfo>
+          ]
+          and
+          [
+              _Ty=v8::CpuProfileDeoptInfo
+          ]
+          and
+          [
+              _Ty=v8::CpuProfileDeoptInfo,
+              _Alloc=std::allocator<v8::CpuProfileDeoptInfo>
+          ] (编译源文件 inspector\v8-profiler-agent-impl.cc)
+  D:\vs17\VC\Tools\MSVC\14.12.25827\include\vector(638): note: 参见“std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>”的声明
+          with
+          [
+              _Ty=v8::CpuProfileDeoptInfo
+          ] (编译源文件 inspector\v8-profiler-agent-impl.cc)
+  D:\v8-js\node-v9.3.0\deps\v8\include/v8-profiler.h(45): note: 参见对正在编译的 类 模板 实例化 "std::vector<v8::CpuProfileDeoptInfo,std::allocator<_Ty>>" 的引用
+          with
+          [
+              _Ty=v8::CpuProfileDeoptInfo
+          ] (编译源文件 inspector\v8-profiler-agent-impl.cc)
+  wasm-translation.cc
+D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4214): warning C4251: “v8::WasmModuleObjectBuilderStreaming::promise_”: class“v8::Persistent<v8::Promise,v8::CopyablePersistentTraits<v8::Promise>>”需要有 dll 接口由 class“v8::WasmModuleObjectBuilderStreaming”的客户端使用  (编译源文件 inspector\wasm-translation.cc)
+  D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4214): note: 参见“v8::Persistent<v8::Promise,v8::CopyablePersistentTraits<v8::Promise>>”的声明 (编译源文件 inspector\wasm-translation.cc)
+D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4218): warning C4251: “v8::WasmModuleObjectBuilderStreaming::received_buffers_”: class“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”需要有 dll 接口由 class“v8::WasmModuleObjectBuilderStreaming”的客户端使用
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 inspector\wasm-translation.cc)
+  D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4218): note: 参见“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 inspector\wasm-translation.cc)
+D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4242): warning C4251: “v8::WasmModuleObjectBuilder::received_buffers_”: class“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”需要有 dll 接口由 class“v8::WasmModuleObjectBuilder”的客户端使用
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 inspector\wasm-translation.cc)
+  D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(4218): note: 参见“std::vector<v8::WasmModuleObjectBuilderStreaming::Buffer,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=v8::WasmModuleObjectBuilderStreaming::Buffer
+          ] (编译源文件 inspector\wasm-translation.cc)
+D:\v8-js\node-v9.3.0\deps\v8\src/inspector/string-16.h(70): warning C4244: “初始化”: 从“const v8_inspector::UChar”转换到“char”，可能丢失数据 (编译源文件 inspector\wasm-translation.cc)
+D:\v8-js\node-v9.3.0\deps\v8\include/v8-inspector.h(80): warning C4251: “v8_inspector::V8ContextInfo::context”: class“v8::Local<v8::Context>”需要有 dll 接口由 class“v8_inspector::V8ContextInfo”的客户端使用  (编译源文件 inspector\wasm-translation.cc)
+  D:\v8-js\node-v9.3.0\deps\v8\include/v8.h(1147): note: 参见“v8::Local<v8::Context>”的声明 (编译源文件 inspector\wasm-translation.cc)
+simulator-ia32.obj : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+  v8_base_0.vcxproj -> D:\v8-js\node-v9.3.0\deps\v8\src\Debug\lib\v8_base_0.lib

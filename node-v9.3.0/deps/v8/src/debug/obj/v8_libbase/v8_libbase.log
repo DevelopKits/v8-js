@@ -1,1 +1,22 @@
-﻿
+﻿  bits.cc
+  cpu.cc
+  division-by-constant.cc
+  stack_trace.cc
+  file-utils.cc
+  functional.cc
+  ieee754.cc
+base\ieee754.cc(638): warning C4244: “=”: 从“double”转换到“int32_t”，可能丢失数据
+base\ieee754.cc(641): warning C4244: “=”: 从“double”转换到“int32_t”，可能丢失数据
+base\ieee754.cc(643): warning C4244: “=”: 从“double”转换到“int32_t”，可能丢失数据
+base\ieee754.cc(2310): warning C4244: “=”: 从“double”转换到“int32_t”，可能丢失数据
+  logging.cc
+  once.cc
+  time.cc
+  condition-variable.cc
+  mutex.cc
+  semaphore.cc
+  sys-info.cc
+  random-number-generator.cc
+  stack_trace_win.cc
+  platform-win32.cc
+  v8_libbase.vcxproj -> D:\v8-js\node-v9.3.0\deps\v8\src\Debug\lib\v8_libbase.lib

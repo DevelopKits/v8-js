@@ -220,23 +220,10 @@
     </ResourceCompile>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <None Include="v8.gyp" />
-  </ItemGroup>
-  <ItemGroup>
     <ClCompile Include="$(OutDir)obj\global_intermediate\libraries.cc" />
     <ClCompile Include="$(OutDir)obj\global_intermediate\extras-libraries.cc" />
     <ClCompile Include="$(OutDir)obj\global_intermediate\experimental-extras-libraries.cc" />
-    <ClCompile Include="$(IntDir)\snapshot.cc" />
     <ClCompile Include="setup-isolate-deserialize.cc" />
-  </ItemGroup>
-  <ItemGroup>
-    <CustomBuild Include="$(OutDir)\mksnapshot.exe">
-      <FileType>Document</FileType>
-      <Command>call call $(OutDir)mksnapshot.exe "--startup_src" "$(IntDir)snapshot.cc" ""
-if %errorlevel% neq 0 exit /b %errorlevel%</Command>
-      <Message>run_mksnapshot</Message>
-      <Outputs>$(IntDir)\snapshot.cc</Outputs>
-    </CustomBuild>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="mksnapshot.vcxproj">

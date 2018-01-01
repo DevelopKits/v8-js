@@ -1,1 +1,9 @@
-﻿
+﻿  default-platform.cc
+  task-queue.cc
+  trace-buffer.cc
+  trace-config.cc
+  trace-object.cc
+  trace-writer.cc
+  tracing-controller.cc
+  worker-thread.cc
+  v8_libplatform.vcxproj -> D:\v8-js\node-v9.3.0\deps\v8\src\Debug\lib\v8_libplatform.lib

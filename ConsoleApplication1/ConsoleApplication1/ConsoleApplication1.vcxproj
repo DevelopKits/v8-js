@@ -72,13 +72,13 @@
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <LinkIncremental>true</LinkIncremental>
-    <IncludePath>E:\node-v8.9.3\deps\v8;E:\node-v8.9.3\deps\v8\include;$(IncludePath)</IncludePath>
-    <LibraryPath>E:\node-v8.9.3\deps\v8\src\debug\lib;$(VC_LibraryPath_x86);$(WindowsSDK_LibraryPath_x86);$(NETFXKitsDir)Lib\um\x86</LibraryPath>
+    <IncludePath>d:\v8-js\node-v9.3.0\deps\v8;d:\v8-js\node-v9.3.0\deps\v8\include;$(IncludePath)</IncludePath>
+    <LibraryPath>d:\v8-js\node-v9.3.0\deps\v8\src\debug\lib;$(VC_LibraryPath_x86);$(WindowsSDK_LibraryPath_x86);$(NETFXKitsDir)Lib\um\x86</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <LinkIncremental>true</LinkIncremental>
-    <IncludePath>E:\node-v8.9.3\deps\v8;E:\node-v8.9.3\deps\v8\include;$(VC_IncludePath);$(WindowsSDK_IncludePath);</IncludePath>
-    <LibraryPath>E:\node-v8.9.3\deps\v8\src\debug\lib;$(VC_LibraryPath_x64);$(WindowsSDK_LibraryPath_x64);$(NETFXKitsDir)Lib\um\x64</LibraryPath>
+    <IncludePath>d:\node-v8.9.3\deps\v8;d:\node-v8.9.3\deps\v8\include;$(VC_IncludePath);$(WindowsSDK_IncludePath);</IncludePath>
+    <LibraryPath>d:\node-v8.9.3\deps\v8\src\debug\lib;$(VC_LibraryPath_x64);$(WindowsSDK_LibraryPath_x64);$(NETFXKitsDir)Lib\um\x64</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <LinkIncremental>false</LinkIncremental>
@@ -102,6 +102,7 @@
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalOptions>v8_base_3.lib v8_base_2.lib v8_base_1.lib v8_base_0.lib v8_libbase.lib v8_libplatform.lib icui18n.lib icuucx.lib v8_libsampler.lib icutools.lib v8_nosnapshot.lib winmm.lib dbghelp.lib Shlwapi.lib v8_snapshot.lib %(AdditionalOptions)</AdditionalOptions>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
