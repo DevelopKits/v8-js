@@ -12,8 +12,13 @@ if /i "%1"=="--?" goto help
 if /i "%1"=="/?" goto help
 
 @rem Process arguments.
+<<<<<<< HEAD
 set config=
 set target=
+=======
+set config=Release
+set target=Build
+>>>>>>> 4a8673c2... retrt
 set target_arch=x86
 set target_env=
 set noprojgen=

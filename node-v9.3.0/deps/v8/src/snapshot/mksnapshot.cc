@@ -163,6 +163,7 @@ int main(int argc, char** argv) {
 
   {
     SnapshotWriter writer;
+<<<<<<< HEAD
 #ifdef _DEBUG
     i::FLAG_startup_src = "d:\\v8-js\\node-v9.3.0\\deps\\v8\\src\\debug\\v8_snapshot.cpp";
     i::FLAG_startup_blob = "d:\\v8-js\\node-v9.3.0\\deps\\v8\\src\\debug\\v8_snapshot.bin";
@@ -171,6 +172,9 @@ int main(int argc, char** argv) {
     i::FLAG_startup_blob = "d:\\v8-js\\node-v9.3.0\\deps\\v8\\src\\release\\v8_snapshot.bin";
 #endif
     if(i::FLAG_startup_src) writer.SetSnapshotFile(i::FLAG_startup_src);
+=======
+    if (i::FLAG_startup_src) writer.SetSnapshotFile(i::FLAG_startup_src);
+>>>>>>> 4a8673c2... retrt
     if (i::FLAG_startup_blob) writer.SetStartupBlobFile(i::FLAG_startup_blob);
 
     char* embed_script = GetExtraCode(argc >= 2 ? argv[1] : NULL, "embedding");

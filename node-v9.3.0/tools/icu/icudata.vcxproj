@@ -18,13 +18,18 @@
     <PreferredToolArchitecture>x64</PreferredToolArchitecture>
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
+<<<<<<< HEAD
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props"/>
+=======
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+>>>>>>> 4a8673c2... retrt
   <PropertyGroup Label="Configuration">
     <ConfigurationType>StaticLibrary</ConfigurationType>
   </PropertyGroup>
   <PropertyGroup Label="Locals">
     <PlatformToolset>v141</PlatformToolset>
   </PropertyGroup>
+<<<<<<< HEAD
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props"/>
   <Import Project="$(VCTargetsPath)\BuildCustomizations\masm.props"/>
   <ImportGroup Label="ExtensionSettings"/>
@@ -32,6 +37,15 @@
     <Import Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props"/>
   </ImportGroup>
   <PropertyGroup Label="UserMacros"/>
+=======
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <Import Project="$(VCTargetsPath)\BuildCustomizations\masm.props" />
+  <ImportGroup Label="ExtensionSettings" />
+  <ImportGroup Label="PropertySheets">
+    <Import Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+>>>>>>> 4a8673c2... retrt
   <PropertyGroup>
     <ExecutablePath>$(ExecutablePath);$(MSBuildProjectDirectory)\.\bin\;$(MSBuildProjectDirectory)\.\bin\</ExecutablePath>
     <IntDir>$(Configuration)\obj\$(ProjectName)\</IntDir>
@@ -64,7 +78,12 @@
       <OutputFile>$(OutDir)lib\$(ProjectName)$(TargetExt)</OutputFile>
     </Lib>
     <Link>
+<<<<<<< HEAD
       <AdditionalDependencies></AdditionalDependencies>
+=======
+      <AdditionalDependencies>
+      </AdditionalDependencies>
+>>>>>>> 4a8673c2... retrt
       <AllowIsolation>true</AllowIsolation>
       <DataExecutionPrevention>true</DataExecutionPrevention>
       <GenerateDebugInformation>true</GenerateDebugInformation>
@@ -106,7 +125,12 @@
       <OutputFile>$(OutDir)lib\$(ProjectName)$(TargetExt)</OutputFile>
     </Lib>
     <Link>
+<<<<<<< HEAD
       <AdditionalDependencies></AdditionalDependencies>
+=======
+      <AdditionalDependencies>
+      </AdditionalDependencies>
+>>>>>>> 4a8673c2... retrt
       <AdditionalOptions>/LTCG:INCREMENTAL %(AdditionalOptions)</AdditionalOptions>
       <AllowIsolation>true</AllowIsolation>
       <DataExecutionPrevention>true</DataExecutionPrevention>
@@ -124,8 +148,13 @@
     </ResourceCompile>
   </ItemDefinitionGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <None Include="$(OutDir)obj\global_intermediate\icudt60l_dat.obj"/>
     <None Include="icu-generic.gyp"/>
+=======
+    <None Include="$(OutDir)obj\global_intermediate\icudt60l_dat.obj" />
+    <None Include="icu-generic.gyp" />
+>>>>>>> 4a8673c2... retrt
     <None Include="icu_small.json">
       <ExcludedFromBuild>true</ExcludedFromBuild>
     </None>
@@ -133,14 +162,24 @@
   <ItemGroup>
     <CustomBuild Include="..\..\deps\icu-small\source\data\in\icudt60l.dat">
       <FileType>Document</FileType>
+<<<<<<< HEAD
       <Command>call call python icutrim.py -P $(OutDir) -D ..\..\deps\icu-small\source\data\in\icudt60l.dat --delete-tmp -T $(OutDir)obj\global_intermediate\icutmp -F icu_small.json -O icudt60l.dat -v -L en,root&#xD;&#xA;if %errorlevel% neq 0 exit /b %errorlevel%</Command>
+=======
+      <Command>call call python icutrim.py -P $(OutDir) -D ..\..\deps\icu-small\source\data\in\icudt60l.dat --delete-tmp -T $(OutDir)obj\global_intermediate\icutmp -F icu_small.json -O icudt60l.dat -v -L en,root
+if %errorlevel% neq 0 exit /b %errorlevel%</Command>
+>>>>>>> 4a8673c2... retrt
       <Message>icutrim</Message>
       <Outputs>$(OutDir)obj\global_intermediate\icutmp\icudt60l.dat</Outputs>
       <AdditionalInputs>icu_small.json</AdditionalInputs>
     </CustomBuild>
     <CustomBuild Include="$(OutDir)obj\global_intermediate\icutmp\icudt60l.dat">
       <FileType>Document</FileType>
+<<<<<<< HEAD
       <Command>call call $(OutDir)genccode -o -d $(OutDir)obj\global_intermediate -n icudata -e icusmdt60 $(OutDir)obj\global_intermediate\icutmp\icudt60l.dat&#xD;&#xA;if %errorlevel% neq 0 exit /b %errorlevel%</Command>
+=======
+      <Command>call call $(OutDir)genccode -o -d $(OutDir)obj\global_intermediate -n icudata -e icusmdt60 $(OutDir)obj\global_intermediate\icutmp\icudt60l.dat
+if %errorlevel% neq 0 exit /b %errorlevel%</Command>
+>>>>>>> 4a8673c2... retrt
       <Message>genccode</Message>
       <Outputs>$(OutDir)obj\global_intermediate\icudt60l_dat.obj</Outputs>
     </CustomBuild>
@@ -150,14 +189,18 @@
       <Project>{016C2B0D-3640-F3D9-A287-9671DCF72D48}</Project>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
+<<<<<<< HEAD
     <ProjectReference Include="icupkg.vcxproj">
       <Project>{C42B0C37-969F-51C3-6182-794B7AD6C9E2}</Project>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
+=======
+>>>>>>> 4a8673c2... retrt
     <ProjectReference Include="genrb.vcxproj">
       <Project>{447D8DA0-FBF2-4DD6-05F0-AAF3DA390EA5}</Project>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
+<<<<<<< HEAD
     <ProjectReference Include="iculslocs.vcxproj">
       <Project>{9B5CC7B4-26AA-7B15-1C89-A1194E378AD5}</Project>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
@@ -167,3 +210,10 @@
   <Import Project="$(VCTargetsPath)\BuildCustomizations\masm.targets"/>
   <ImportGroup Label="ExtensionTargets"/>
 </Project>
+=======
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <Import Project="$(VCTargetsPath)\BuildCustomizations\masm.targets" />
+  <ImportGroup Label="ExtensionTargets" />
+</Project>
+>>>>>>> 4a8673c2... retrt
